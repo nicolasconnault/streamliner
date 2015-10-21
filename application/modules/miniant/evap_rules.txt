@@ -1,0 +1,784 @@
+---
+SUPPLY AIR DIFFUSION
+NEW ISSUE TYPE -
+Damaged NEW STEP - Replace,Readjust,Rectify
+Faulty NEW STEP - Repair,Readjust,Rectify
+Dirty NEW STEP - Repair,Clear,Clean with brush,Wash
+Edit -
+what size face L x W
+neck size L x W
+---
+DIFFUSION CLIPS
+NEW ISSUE TYPE -
+Damaged NEW STEP - Replace,Readjust,Rectify
+Faulty NEW STEP - Repair,Readjust,Rectify
+Edit -
+take a photo
+---
+SUPPLY AIR BACKING PLATE
+NEW ISSUE TYPE -
+Damaged NEW STEP - Replace,Readjust,Rectify
+Faulty NEW STEP - Repair,Readjust,Rectify
+Edit -
+neck size L x W
+size of backing plate ie 250,300 etc
+---
+FLEXIBLE DUCTS
+NEW ISSUE TYPE -
+Damaged NEW STEP - Replace,Readjust,Rectify
+Faulty NEW STEP - Repair,Readjust,Rectify
+Imploded NEW STEP - Replace,Readjust,Rectify
+Edit -
+What size duct
+What size insulation
+---
+METAL SUPA Y’S
+NEW ISSUE TYPE -
+Damaged NEW STEP - Replace,Readjust,Rectify
+Faulty NEW STEP - Repair,Readjust,Rectify
+Imploded NEW STEP - Replace,Readjust,Rectify
+Edit -
+What size spigots on each end
+Insulated or non-insulated
+---
+PLASTIC “Y” PIECE
+NEW ISSUE TYPE -
+Damaged NEW STEP - Replace,Readjust,Rectify
+Faulty NEW STEP - Repair,Readjust,Rectify
+Imploded NEW STEP - Replace,Readjust,Rectify
+Edit -
+What size spigots on each end
+Insulated or non-insulated
+---
+MANUAL DAMPERS
+NEW ISSUE TYPE -
+Damaged NEW STEP - Replace,Readjust,Rectify
+Faulty NEW STEP - Repair,Readjust,Rectify
+Imploded NEW STEP - Replace,Readjust,Rectify
+Edit -
+What size spigots on each end
+Insulated or non-insulated
+---
+REDUCERS
+NEW ISSUE TYPE -
+Damaged NEW STEP - Replace,Readjust,Rectify
+Faulty NEW STEP - Repair,Readjust,Rectify
+Imploded NEW STEP - Replace,Readjust,Rectify
+Edit -
+What size spigots on each end
+Insulated or non-insulated
+---
+CASTELLATED COLLAR
+NEW ISSUE TYPE -
+Damaged NEW STEP - Replace,Readjust,Rectify
+Faulty NEW STEP - Repair,Readjust,Rectify
+Imploded NEW STEP - Replace,Readjust,Rectify
+Edit -
+What size spigots
+Metal or plastic
+---
+DROPPER
+NEW ISSUE TYPE -
+Damaged NEW STEP - Replace,Readjust,Rectify
+Faulty NEW STEP - Repair,Readjust,Rectify
+Edit -
+size of dropper L x W x H
+insulated or non-insulated
+what type of supply air
+ie 4 way plenum
+   castellated collars
+---
+TOPHATS
+NEW ISSUE TYPE -
+Damaged NEW STEP - Replace,Readjust,Rectify
+Rusted NEW STEP - Repair,Readjust,Rectify,Clear,Clean,Clean with brush
+Edit -
+what size L x w x H
+zinc or galvanized metal
+---
+UPSTAND
+NEW ISSUE TYPE -
+Damaged NEW STEP - Replace,Readjust,Rectify
+Rusted NEW STEP - Repair,Readjust,Rectify,Clear,Clean,Clean with brush
+Edit -
+what size L x w x H
+zinc or galvanized metal
+---
+OVERFLASHING
+NEW ISSUE TYPE -
+Damaged NEW STEP - Replace,Readjust,Rectify
+Rusted NEW STEP - Repair,Readjust,Rectify,Clear,Clean,Clean with brush
+Edit -
+what size L x w x H
+zinc or galvanized metal
+---
+METAL TRANSITION ADAPTOR
+NEW ISSUE TYPE -
+Damaged NEW STEP - Replace,Readjust,Rectify
+Rusted NEW STEP - Repair,Readjust,Rectify,Clear,Clean,Clean with brush
+Edit -
+what size L x w x H
+zinc or galvanized metal
+Make and model of air-conditioning unit
+---
+WHEATHER SHIELD
+NEW ISSUE TYPE -
+Damaged NEW STEP - Replace,Readjust,Rectify
+Faulty NEW STEP - Repair,Readjust,Rectify
+Edit -
+size of dropper L x W
+insulated dropper or non-insulated
+Make and model of air-conditioning unit
+---
+EVAPORATIVE COOLER MAIN CASING
+NEW ISSUE TYPE -
+Damaged NEW STEP - Replace,Readjust,Rectify
+Faulty NEW STEP - Repair,Readjust,Rectify
+Rusted NEW STEP - Repair,Readjust,Rectify,Clear,Clean,Clean with brush
+Dirty NEW STEP - Repair,Clear,Clean with brush,Wash
+Edit -
+Take a photo
+Make and model of air-conditioning unit
+---
+EVAPORATIVE COOLER MAIN POSTS
+NEW ISSUE TYPE -
+Damaged NEW STEP - Replace,Readjust,Rectify
+Faulty NEW STEP - Repair,Readjust,Rectify
+Rusted NEW STEP - Repair,Readjust,Rectify,Clear,Clean,Clean with brush
+Dirty NEW STEP - Repair,Clear,Clean with brush,Wash
+Edit -
+Take a photo
+Make and model of air-conditioning unit
+---
+EVAPORATIVE COOLER MAIN TOP LID
+NEW ISSUE TYPE -
+Damaged NEW STEP - Replace,Readjust,Rectify
+Faulty NEW STEP - Repair,Readjust,Rectify
+Rusted NEW STEP - Repair,Readjust,Rectify,Clear,Clean,Clean with brush
+Dirty NEW STEP - Repair,Clear,Clean with brush,Wash
+Edit -
+Take a photo
+Make and model of air-conditioning unit
+---
+EVAPORATIVE COOLER MAIN RESERVOIR
+NEW ISSUE TYPE -
+Damaged NEW STEP - Replace,Readjust,Rectify
+Faulty NEW STEP - Repair,Readjust,Rectify
+Rusted NEW STEP - Repair,Readjust,Rectify,Clear,Clean,Clean with brush
+Dirty NEW STEP - Repair,Clear,Clean with brush,Wash
+Edit -
+Take a photo
+Make and model of air-conditioning unit
+---
+EVAPORATIVE COOLER PLASTIC FAN COWL
+NEW ISSUE TYPE -
+Damaged NEW STEP - Replace,Readjust,Rectify
+Faulty NEW STEP - Repair,Readjust,Rectify
+Rusted NEW STEP - Repair,Readjust,Rectify,Clear,Clean,Clean with brush
+Dirty NEW STEP - Repair,Clear,Clean with brush,Wash
+Edit -
+Take a photo
+Make and model of air-conditioning unit
+---
+DRAIN KIT
+NEW ISSUE TYPE -
+Damaged NEW STEP - Replace,Readjust,Rectify
+Faulty NEW STEP - Repair,Readjust,Rectify
+Burnt out NEW STEP - Replace,Readjust,Rectify,Rewire,Reset
+Edit -
+Take a photo
+Make and model of air-conditioning unit
+---
+BLEED TRAY
+NEW ISSUE TYPE -
+Damaged NEW STEP - Replace,Readjust,Rectify
+Faulty NEW STEP - Repair,Readjust,Rectify
+Dirty NEW STEP - Repair,Clear,Clean with brush,Wash
+Edit -
+Take a photo
+Plastic or metal
+Make and model of air-conditioning unit
+---
+WATER FLOAT VALVE
+NEW ISSUE TYPE -
+Damaged NEW STEP - Replace,Readjust,Rectify,Reset
+Faulty NEW STEP - Repair,Readjust,Rectify,Reset
+Dirty NEW STEP - Repair,Clear,Clean
+Out of calibration NEW STEP - Repair,Readjust,Rectify,Reset
+Edit -
+Take a photo
+What type: magnetic float,up stand cistern,counter weight float,philmac float
+Make and model of air-conditioning unit
+---
+BALL FLOAT
+NEW ISSUE TYPE -
+Damaged NEW STEP - Replace,Readjust,Rectify,Reset
+Faulty NEW STEP - Repair,Readjust,Rectify,Reset
+Dirty NEW STEP - Repair,Clear,Clean
+Out of calibration NEW STEP - Repair,Readjust,Rectify,Reset
+Imploded NEW STEP - Replace,Readjust,Rectify
+Edit -
+Take a photo
+Plastic or metal
+Screw on type or plastic round type
+Make and model of air-conditioning unit
+---
+WATER SUMP DUMP VALVE
+NEW ISSUE TYPE -
+Faulty NEW STEP - Repair,Readjust,Rectify,Reset,Rewire electrics,Clear,Clean,Clean with brush,Wash
+Damaged NEW STEP - Replace,Readjust,Rectify,Reset,rewire electrics,Clear,Clean,Clean with brush,Wash
+Burnt out NEW STEP - Replace,Readjust,Rectify,Rewire electrics,Reset,Clear,Clean,Clean with brush,Wash
+Blocked with dirt and debris NEW STEP - Repair,Clear,Clean,Clean with brush,Wash,Reset,Readjust,Rectify
+Jammed NEW STEP - Repair,Clear,Clean,Clean with brush,Wash,Reset,Readjust,Rectify
+Edit -
+Mushroom type with no 6mm elbow
+Mushroom type with 6mm elbow
+Make and model of air-conditioning unit
+---
+COUNTER WEIGHT DRAIN VALVE
+NEW ISSUE TYPE -
+Faulty NEW STEP - Repair,Readjust,Rectify,Reset,Rewire electrics,Clear,Clean,Clean with brush,Wash
+Damaged NEW STEP - Replace,Readjust,Rectify,Reset,rewire electrics,Clear,Clean,Clean with brush,Wash
+Burnt out NEW STEP - Replace,Readjust,Rectify,Rewire electrics,Reset,Clear,Clean,Clean with brush,Wash
+Blocked with dirt and debris NEW STEP - Repair,Clear,Clean,Clean with brush,Wash,Reset,Readjust,Rectify
+Jammed NEW STEP - Repair,Clear,Clean,Clean with brush,Wash,Reset,Readjust,Rectify
+Edit -
+electric or counter weight
+what voltage
+Make and model of air-conditioning unit
+---
+ELECTRIC DRAIN VALVE
+ NEW ISSUE TYPE -
+Faulty NEW STEP - Repair,Readjust,Rectify,Reset,Rewire electrics,Clear,Clean,Clean with brush,Wash
+Damaged NEW STEP - Replace,Readjust,Rectify,Reset,rewire electrics,Clear,Clean,Clean with brush,Wash
+Burnt out NEW STEP - Replace,Readjust,Rectify,Rewire electrics,Reset,Clear,Clean,Clean with brush,Wash
+Blocked with dirt and debris NEW STEP - Repair,Clear,Clean,Clean with brush,Wash,Reset,Readjust,Rectify
+Jammed NEW STEP - Repair,Clear,Clean,Clean with brush,Wash,Reset,Readjust,Rectify
+Edit -
+what voltage
+Make and model of air-conditioning unit
+---
+WATER MANAGEMENT PCB
+NEW ISSUE TYPE -
+Out of calibration NEW STEP - Repair,Readjust,Rectify,Reset
+Burnt out NEW STEP - Replace,Readjust,Rectify,Rewire electrics,Reset,Clear
+Faulty NEW STEP - Repair,Readjust,Rectify,Reset,Rewire electrics,Clear
+Damaged NEW STEP - Replace,Readjust,Rectify,Reset,rewire electrics
+Blocked with dirt and debris NEW STEP - Repair,Clear,Clean,Clean with brush,Wash,Reset,Readjust,Rectify
+Edit -
+what voltage
+Make and model of air-conditioning unit
+---
+WATER PUMP
+NEW ISSUE TYPE -
+Burnt out NEW STEP - Replace,Readjust,Rectify,Rewire electrics
+Jammed NEW STEP - Repair,Clear,Clean,Clean with brush,Wash,Reset,Readjust,Rectify
+Faulty NEW STEP - Repair,Readjust,Rectify,Reset,Rewire electrics,Clear
+Edit -
+what voltage
+Make and model of air-conditioning unit
+Make of pump ie tornado or fasco
+---
+PUMP BASKET
+NEW ISSUE TYPE -
+Blocked with dirt and debris NEW STEP - Repair,Clear,Clean,Clean with brush,Wash,Reset,Readjust,Rectify
+Damaged NEW STEP - Replace,Readjust,Rectify,Reset,rewire electrics
+Dirty NEW STEP - Repair,Clear,Clean,Readjust,Rectify,Reset
+Edit -
+Make and model of air-conditioning unit
+Make of pump ie tornado or fasco
+---
+WATER SOLENOID VALVE
+NEW ISSUE TYPE -
+Burnt out NEW STEP - Replace,Readjust,Rectify,Rewire electrics
+Jammed NEW STEP - Repair,Clear,Clean,Clean with brush,Wash,Reset,Readjust,Rectify
+Dirty NEW STEP - Repair,Clear,Clean,Readjust,Rectify,Reset
+Blocked with dirt and debris NEW STEP - Repair,Clear,Clean,Clean with brush,Wash,Reset,Readjust,Rectify
+Edit -
+Make and model of air-conditioning unit
+What voltage
+What size water pipe of inlet and outlet
+---
+WATER SOLENOID
+NEW ISSUE TYPE -
+Burnt out NEW STEP - Replace,Readjust,Rectify,Rewire electrics
+Jammed NEW STEP - Repair,Clear,Clean,Clean with brush,Wash,Reset,Readjust,Rectify
+Dirty NEW STEP - Repair,Clear,Clean,Readjust,Rectify,Reset
+Edit -
+Make and model of air-conditioning unit
+What voltage
+Make of solenoid
+---
+WATER MAGNETIC LEVEL SENSOR
+NEW ISSUE TYPE -
+Out of calibration NEW STEP - Repair,Readjust,Rectify,Reset
+Burnt out NEW STEP - Replace,Readjust,Rectify,Rewire electrics,Reset,Clear
+Faulty NEW STEP - Repair,Readjust,Rectify,Reset,Rewire electrics,Clear
+Damaged NEW STEP - Replace,Readjust,Rectify,Reset,rewire electrics
+Blocked with dirt and debris NEW STEP - Repair,Clear,Clean,Clean with brush,Wash,Reset,Readjust,Rectify
+Edit -
+Make and model of air-conditioning unit
+What voltage
+Make of sensor
+---
+FAN MOTOR
+NEW ISSUE TYPE -
+Burnt out NEW STEP - Replace,Readjust,Rectify,Rewire electrics,Reset,Clear
+Faulty NEW STEP - Repair,Readjust,Rectify,Reset,Rewire electrics,Clear
+Blocked with dirt and debris NEW STEP - Repair,Clear,Clean,Clean with brush,Wash,Reset,Readjust,Rectify
+Edit -
+Make and model of air-conditioning unit
+Pad sizes
+Type of pads ie celdek or aspen
+Voltage of motor
+Does it require an external capacitor and what size
+Diameter and Size of pulley
+---
+FAN MOTOR BRACKET
+NEW ISSUE TYPE -
+Faulty NEW STEP - Repair,Readjust,Rectify,Reset,Clear
+Damaged NEW STEP - Replace,Readjust,Rectify,Reset,rewire electrics
+Edit -
+Make and model of air-conditioning unit
+Type of bracket ie wrap around or arm type
+---
+FAN BLADE
+NEW ISSUE TYPE -
+Faulty NEW STEP - Repair,Readjust,Rectify,Reset,Clear
+Damaged NEW STEP - Replace,Readjust,Rectify,Reset,rewire electrics
+Blocked with dirt and debris NEW STEP - Repair,Clear,Clean,Clean with brush,Wash,Reset,Readjust,Rectify
+Edit -
+Make and model of air-conditioning unit
+Type of blade
+Diameter of blade
+What size shaft of blade
+---
+FAN COLLET
+NEW ISSUE TYPE -
+Faulty NEW STEP - Repair,Readjust,Rectify,Reset,Clear
+Damaged NEW STEP - Replace,Readjust,Rectify,Reset,rewire electrics
+Edit -
+Make and model of air-conditioning unit
+What size of collet
+---
+FAN BARREL
+NEW ISSUE TYPE -
+Faulty NEW STEP - Repair,Readjust,Rectify,Reset,Clear
+Damaged NEW STEP - Replace,Readjust,Rectify,Reset,rewire electrics
+Blocked with dirt and debris NEW STEP - Repair,Clear,Clean,Clean with brush,Wash,Reset,Readjust,Rectify
+Edit -
+Make and model of air-conditioning unit
+Diameter of barrel
+What size shaft of barrel
+---
+SMALL PLASTIC PULLEY
+NEW ISSUE TYPE -
+Faulty NEW STEP - Repair,Readjust,Rectify,Reset,Clear
+Damaged NEW STEP - Replace,Readjust,Rectify,Reset
+Edit -
+Make and model of air-conditioning unit
+Diameter of pulley
+What size shaft of pulley
+What type of lock ring
+---
+LARGE PLASTIC PULLEY
+NEW ISSUE TYPE -
+Faulty NEW STEP - Repair,Readjust,Rectify,Reset,Clear
+Damaged NEW STEP - Replace,Readjust,Rectify,Reset
+Edit -
+Make and model of air-conditioning unit
+Diameter of pulley
+What size shaft of pulley
+What type of lock ring
+---
+FAN FLY WHEEL
+NEW ISSUE TYPE -
+Faulty NEW STEP - Repair,Readjust,Rectify,Reset,Clear
+Damaged NEW STEP - Replace,Readjust,Rectify,Reset
+Edit -
+Make and model of air-conditioning unit
+Diameter of flywheel
+What size shaft
+Metal or plastic
+---
+PULLEY CIRCLIP
+NEW ISSUE TYPE -
+Faulty NEW STEP - Repair,Readjust,Rectify,Reset,Clear
+Damaged NEW STEP - Replace,Readjust,Rectify,Reset
+Edit -
+Make and model of air-conditioning unit
+Diameter of circlip
+What size circlip
+Metal or plastic
+---
+SHAFT
+NEW ISSUE TYPE -
+Damaged NEW STEP - Replace,Readjust,Rectify,Reset
+Rusted NEW STEP - Repair,Readjust,Rectify,Clear,Clean,Clean with brush
+Edit -
+Make and model of air-conditioning unit
+Diameter of shaft
+What size shaft
+Metal or plastic
+---
+BEARING
+NEW ISSUE TYPE -
+Damaged NEW STEP - Replace,Readjust,Rectify,Reset
+Imploded NEW STEP - Replace,Readjust,Rectify
+Edit -
+Make and model of air-conditioning unit
+Type of bearing ie square or round
+Type of casing around bearing ie plastic or metal
+Diameter of bearing
+---
+BEARING KITS
+NEW ISSUE TYPE -
+Damaged NEW STEP - Replace,Readjust,Rectify,Reset
+Imploded NEW STEP - Replace,Readjust,Rectify
+Edit -
+Make and model of air-conditioning unit
+Type of bearing ie square or round
+Type of casing around bearing ie plastic or metal
+Diameter of bearing
+---
+PILLAR BLOCKS
+NEW ISSUE TYPE -
+Faulty NEW STEP - Repair,Readjust,Rectify,Reset,Clear
+Damaged NEW STEP - Replace,Readjust,Rectify,Reset
+Imploded NEW STEP - Replace,Readjust,Rectify
+Edit -
+Make and model of air-conditioning unit
+Type of pillar block ie square or round
+Type of casing around pillar block ie plastic or metal
+Diameter of pillar block
+---
+GREASE NIPPLES
+NEW ISSUE TYPE -
+Faulty NEW STEP - Repair,Readjust,Rectify,Reset,Clear
+Damaged NEW STEP - Replace,Readjust,Rectify,Reset
+Edit -
+Make and model of air-conditioning unit
+Type of grease nipple ie square or round
+Type of grease nipple ie removable or non - removable
+---
+V - BELT
+NEW ISSUE TYPE -
+Faulty NEW STEP - Repair,Readjust,Rectify,Reset,Clear
+Damaged NEW STEP - Replace,Readjust,Rectify,Reset
+Edit -
+Make and model of air-conditioning unit
+What size v - belt
+Model No of v- belt
+---
+CELDEK PADS
+NEW ISSUE TYPE -
+Faulty NEW STEP - Repair,Readjust,Rectify,Reset,Clear
+Damaged NEW STEP - Replace,Readjust,Rectify,Reset
+Imploded NEW STEP - Replace,Readjust,Rectify
+Blocked with dirt and debris NEW STEP - Repair,Clear,Clean,Clean with brush,Wash,Reset,Readjust,Rectify
+Edit -
+Make and model of air-conditioning unit
+Size of pads L x W x H
+Thickness of pads
+Any water distribution grooves
+---
+ASPEN PADS
+NEW ISSUE TYPE -
+Faulty NEW STEP - Repair,Readjust,Rectify,Reset,Clear
+Damaged NEW STEP - Replace,Readjust,Rectify,Reset
+Blocked with dirt and debris NEW STEP - Repair,Clear,Clean,Clean with brush,Wash,Reset,Readjust,Rectify
+Edit -
+Make and model of air-conditioning unit
+Size of pads L x W x H
+---
+WIRE RETAINERS
+NEW ISSUE TYPE -
+Faulty NEW STEP - Repair,Readjust,Rectify,Reset,Clear
+Damaged NEW STEP - Replace,Readjust,Rectify,Reset
+Rusted NEW STEP - Replace,Readjust,Rectify,Clear,Clean,Clean with brush
+Edit -
+Make and model of air-conditioning unit
+Size of pads L x W
+Metal or plastic
+---
+PLASTIC PAD HOLDERS
+NEW ISSUE TYPE -
+Faulty NEW STEP - Repair,Readjust,Rectify,Reset,Clear
+Damaged NEW STEP - Replace,Readjust,Rectify,Reset
+Edit -
+Make and model of air-conditioning unit
+Size of pad holders L x W x H
+Metal or plastic
+---
+PAD RETAINER CLIPS
+NEW ISSUE TYPE -
+Faulty NEW STEP - Repair,Readjust,Rectify,Reset,Clear
+Damaged NEW STEP - Replace,Readjust,Rectify,Reset
+Rusted NEW STEP - Replace,Readjust,Rectify,Clear,Clean,Clean with brush
+Edit -
+Make and model of air-conditioning unit
+Diameter of clip
+What size clip L x W
+Metal or plastic
+---
+WATER DISTRIBUTION TRAY
+NEW ISSUE TYPE -
+Faulty NEW STEP - Repair,Readjust,Rectify,Reset,Clear
+Damaged NEW STEP - Replace,Readjust,Rectify,Reset
+Rusted NEW STEP - Replace,Readjust,Rectify,Clear,Clean,Clean with brush
+Blocked with dirt and debris NEW STEP - Repair,Clear,Clean,Clean with brush,Wash,Reset,Readjust,Rectify
+Edit -
+Make and model of air-conditioning unit
+What size water distribution L x W
+Plastic or metal
+Any additional hoses required
+---
+TRANSFORMER
+NEW ISSUE TYPE -
+Faulty NEW STEP - Repair,Readjust,Rectify,Reset,Clear
+Damaged NEW STEP - Replace,Readjust,Rectify,Reset
+Burnt out NEW STEP - Replace,Readjust,Rectify,Rewire electrics,Reset,Clear
+Edit -
+Make and model of air-conditioning unit
+Make and model of transformer
+What voltage and amperage
+What is the voltage transferring ie 240v to 24v
+---
+WALL CONTROLLER
+NEW ISSUE TYPE -
+Faulty NEW STEP - Repair,Readjust,Rectify,Reset,Clear
+Damaged NEW STEP - Replace,Readjust,Rectify,Reset
+Edit -
+Make and model of air-conditioning unit
+Make and model of wall controller
+What voltage and amperage
+Type of speed ie variable or 2-3 speed
+---
+CONTROL WIRING LOOM
+NEW ISSUE TYPE -
+Faulty NEW STEP - Repair,Readjust,Rectify,Reset,Clear
+Damaged NEW STEP - Replace,Readjust,Rectify,Reset
+Edit -
+Make and model of air-conditioning unit
+How many meters required
+Type of cables and how many
+Type of connecting ends
+---
+CONTROL CABLING
+NEW ISSUE TYPE -
+Faulty NEW STEP - Repair,Readjust,Rectify,Reset,Clear
+Damaged NEW STEP - Replace,Readjust,Rectify,Reset
+Burnt out NEW STEP - Replace,Readjust,Rectify,Rewire electrics,Reset,Clear
+Edit -
+Make and model of air-conditioning unit
+How many meters required
+Type of cables and how many
+Type of connecting ends ie plastic ends connecting onto pins of PCB’S or hard wired
+---
+MAINS CABLING
+NEW ISSUE TYPE -
+Faulty NEW STEP - Repair,Readjust,Rectify,Reset,Clear
+Damaged NEW STEP - Replace,Readjust,Rectify,Reset
+Burnt out NEW STEP - Replace,Readjust,Rectify,Rewire electrics,Reset,Clear
+Edit -
+Make and model of air-conditioning unit
+How many meters required
+Type of cables and how many
+Size of cable ie 25mm or 4mm
+Single or three phase required
+---
+CONVERSION KIT
+NEW ISSUE TYPE -
+Faulty NEW STEP - Repair,Readjust,Rectify,Reset,Clear
+Damaged NEW STEP - Replace,Readjust,Rectify,Reset
+Burnt out NEW STEP - Replace,Readjust,Rectify,Rewire electrics,Reset,Clear
+Edit -
+Make and model of air-conditioning unit
+Any extra cables required
+Cooling Pad sizes L x W x thickness
+What type of cooling pads ie celdek or aspen
+If celdek - any water distribution grooves
+---
+CAPACITIOR
+NEW ISSUE TYPE -
+Faulty NEW STEP - Repair,Readjust,Rectify,Reset,Clear
+Damaged NEW STEP - Replace,Readjust,Rectify,Reset
+Burnt out NEW STEP - Replace,Readjust,Rectify,Rewire electrics,Reset,Clear
+Rusted NEW STEP - Replace,Readjust,Rectify,Clear,Clean,Clean with brush
+Edit -
+Make and model of air-conditioning unit
+Any extra cables required
+What size is capacitor mfd or uf
+What is the voltage of capacitor
+---
+OVERLOAD
+NEW ISSUE TYPE -
+Faulty NEW STEP - Repair,Readjust,Rectify,Reset,Clear
+Damaged NEW STEP - Replace,Readjust,Rectify,Reset
+Burnt out NEW STEP - Replace,Readjust,Rectify,Rewire electrics,Reset,Clear
+Out of calibration NEW STEP - Repair,Readjust,Rectify,Reset
+Edit -
+Make and model of air-conditioning unit
+Make and model of overload
+what amperages on the overload
+Any extra cables required
+---
+CONTACTOR
+NEW ISSUE TYPE -
+Faulty NEW STEP - Repair,Readjust,Rectify,Reset,Clear
+Damaged NEW STEP - Replace,Readjust,Rectify,Reset
+Burnt out NEW STEP - Replace,Readjust,Rectify,Rewire electrics,Reset,Clear
+Out of calibration NEW STEP - Repair,Readjust,Rectify,Reset
+Jammed NEW STEP - Repair,Clear,Clean,Clean with brush,Wash,Reset,Readjust,Rectify
+Dirty NEW STEP - Repair,Clear,Clean,Readjust,Rectify,Reset
+Edit -
+Make and model of air-conditioning unit
+Make and model of contactor
+what size contactor (kilowatts rating) KW
+Any additional axillary contacts required ie n/o OR n/c
+what voltage contactor coil ie 240v or 440v
+Any extra cables required
+---
+OUTDOOR PCB
+NEW ISSUE TYPE -
+Burnt out NEW STEP - Replace,Readjust,Rectify,Rewire electrics,Reset,Clear
+Faulty NEW STEP - Repair,Readjust,Rectify,Reset,Clear
+Edit -
+Make and model of air-conditioning unit
+Make and model No of outdoor PCB
+What type of ends on the outdoor PCB ie plastic or hard wired in
+Any extra cables required
+Cooling Pad sizes L x W x thickness
+What type of cooling pads ie celdek or aspen
+If celdek - any water distribution grooves
+---
+MOTOR EXTENSION LEAD
+NEW ISSUE TYPE -
+Faulty NEW STEP - Repair,Readjust,Rectify,Reset,Clear
+Damaged NEW STEP - Replace,Readjust,Rectify,Reset
+Burnt out NEW STEP - Replace,Readjust,Rectify,Rewire electrics,Reset,Clear
+Edit -
+Make and model of air-conditioning unit
+Make and model No of motor
+What type of ends on the motor leads ie plastic or hard wired in
+Any extra cables required
+---
+FUSES
+NEW ISSUE TYPE -
+Faulty NEW STEP - Repair,Readjust,Rectify,Reset,Clear
+Damaged NEW STEP - Replace,Readjust,Rectify,Reset
+Burnt out NEW STEP - Replace,Readjust,Rectify,Rewire electrics,Reset,Clear
+Rusted NEW STEP - Replace,Readjust,Rectify,Clear,Clean,Clean with brush
+Edit -
+Make and model of air-conditioning unit
+Length of fuse
+Voltage of fuses
+Amperage of fuses
+Type of fuse
+---
+MAIN ISLOLATING SWITCH
+NEW ISSUE TYPE -
+Faulty NEW STEP - Repair,Readjust,Rectify,Reset,Clear
+Damaged NEW STEP - Replace,Readjust,Rectify,Reset
+Burnt out NEW STEP - Replace,Readjust,Rectify,Rewire electrics,Reset,Clear
+Rusted NEW STEP - Replace,Readjust,Rectify,Clear,Clean,Clean with brush
+Edit -
+Make and model of air-conditioning unit
+Single or three phase isolating switch
+Any additional cables or conduits required
+Required amperages of isolating switch
+---
+CIRCUIT BREAKERS
+NEW ISSUE TYPE -
+Faulty NEW STEP - Repair,Readjust,Rectify,Reset,Clear
+Damaged NEW STEP - Replace,Readjust,Rectify,Reset
+Burnt out NEW STEP - Replace,Readjust,Rectify,Rewire electrics,Reset,Clear
+Rusted NEW STEP - Replace,Readjust,Rectify,Clear,Clean,Clean with brush
+Edit -
+Make and model of air-conditioning unit
+Make and model No of circuit breaker
+Single or three phase circuit breaker
+Required amperages of circuit breaker
+Any additional cables or conduits required
+---
+WATER TAP
+NEW ISSUE TYPE -
+Faulty NEW STEP - Repair,Readjust,Rectify,Reset,Clear
+Damaged NEW STEP - Replace,Readjust,Rectify,Reset
+Rusted NEW STEP - Replace,Readjust,Rectify,Clear,Clean,Clean with brush
+Jammed NEW STEP - Repair,Clear,Clean,Clean with brush,Wash,Reset,Readjust,Rectify
+Blocked with dirt and debris NEW STEP - Repair,Clear,Clean,Clean with brush,Wash,Reset,Readjust,Rectify
+Dirty NEW STEP - Repair,Clear,Clean,Readjust,Rectify,Reset
+Edit -
+Make and model of air-conditioning unit
+What size water tap
+What type
+---
+WATER PIPE
+NEW ISSUE TYPE -
+Faulty NEW STEP - Repair,Readjust,Rectify,Reset,Clear
+Damaged NEW STEP - Replace,Readjust,Rectify,Reset
+Rusted NEW STEP - Replace,Readjust,Rectify,Clear,Clean,Clean with brush
+Blocked with dirt and debris NEW STEP - Repair,Clear,Clean,Clean with brush,Wash,Reset,Readjust,Rectify
+Dirty NEW STEP - Repair,Clear,Clean,Readjust,Rectify,Reset
+Edit -
+Make and model of air-conditioning unit
+What size water pipe ie 1Ž2’”
+What type copper or plastic
+If plastic what size pipe and fittings
+---
+90 DEGREE PVC ELBOW
+NEW ISSUE TYPE -
+Faulty NEW STEP - Repair,Readjust,Rectify,Reset,Clear
+Damaged NEW STEP - Replace,Readjust,Rectify,Reset
+Blocked with dirt and debris NEW STEP - Repair,Clear,Clean,Clean with brush,Wash,Reset,Readjust,Rectify
+Dirty NEW STEP - Repair,Clear,Clean,Readjust,Rectify,Reset
+Edit -
+Make and model of air-conditioning unit
+What size water pipe in mm ie 35mm 40mm
+What size of 90 degree pvc elbow ie 35mm or 40mm
+---
+45 DEGREE PVC ELBOW
+NEW ISSUE TYPE -
+Faulty NEW STEP - Repair,Readjust,Rectify,Reset,Clear
+Damaged NEW STEP - Replace,Readjust,Rectify,Reset
+Blocked with dirt and debris NEW STEP - Repair,Clear,Clean,Clean with brush,Wash,Reset,Readjust,Rectify
+Dirty NEW STEP - Repair,Clear,Clean,Readjust,Rectify,Reset
+Edit -
+Make and model of air-conditioning unit
+What size water pipe in mm ie 35mm 40mm
+What size of 45 degree pvc elbow ie 35mm or 40mm
+---
+PVC UNION
+NEW ISSUE TYPE -
+Faulty NEW STEP - Repair,Readjust,Rectify,Reset,Clear
+Damaged NEW STEP - Replace,Readjust,Rectify,Reset
+Blocked with dirt and debris NEW STEP - Repair,Clear,Clean,Clean with brush,Wash,Reset,Readjust,Rectify
+Dirty NEW STEP - Repair,Clear,Clean,Readjust,Rectify,Reset
+Edit -
+Make and model of air-conditioning unit
+What size water pipe in mm ie 35mm 40mm
+What size pvc union ie 35mm or 40mm
+---
+FLARE NUT
+NEW ISSUE TYPE -
+Faulty NEW STEP - Repair,Readjust,Rectify,Reset,Clear
+Damaged NEW STEP - Replace,Readjust,Rectify,Reset
+Blocked with dirt and debris NEW STEP - Repair,Clear,Clean,Clean with brush,Wash,Reset,Readjust,Rectify
+Dirty NEW STEP - Repair,Clear,Clean,Readjust,Rectify,Reset
+Edit -
+Make and model of air-conditioning unit
+What size water pipe ie 1Ž2’”
+What type copper or plastic
+If plastic what size pipe and fittings
+---
+PVC DRAINAGE PIPE
+NEW ISSUE TYPE -
+Faulty NEW STEP - Repair,Readjust,Rectify,Reset,Clear
+Damaged NEW STEP - Replace,Readjust,Rectify,Reset
+Blocked with dirt and debris NEW STEP - Repair,Clear,Clean,Clean with brush,Wash,Reset,Readjust,Rectify
+Dirty NEW STEP - Repair,Clear,Clean,Readjust,Rectify,Reset
+Edit -
+Make and model of air-conditioning unit
+What size drainage water pipe ie 35mm or 40mm
+What type copper or plastic

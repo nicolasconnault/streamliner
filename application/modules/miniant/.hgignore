@@ -1,0 +1,5 @@
+files/location_diagrams/*
+files/servicequotes/*
+files/uploads/*
+files/orders/*
+config/files.php

@@ -1,0 +1,47 @@
+<?php if ( ! defined('BASEPATH')) exit('No direct script access allowed');
+/*
+ * Copyright 2015 SMB Streamline
+ *
+ * Contact nicolas <nicolas@smbstreamline.com.au>
+ *
+ * Licensed under the "Attribution-NonCommercial-ShareAlike" Vizsage
+ * Public License (the "License"). You may not use this file except
+ * in compliance with the License. Roughly speaking, non-commercial
+ * users may share and modify this code, but must give credit and
+ * share improvements. However, for proper details please
+ * read the full License, available at
+ *  	http://vizsage.com/license/Vizsage-License-BY-NC-SA.html
+ * and the handy reference for understanding the full license at
+ *  	http://vizsage.com/license/Vizsage-Deed-BY-NC-SA.html
+ *
+ * Unless required by applicable law or agreed to in writing, any
+ * software distributed under the License is distributed on an
+ * "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND,
+ * either express or implied. See the License for the specific
+ * language governing permissions and limitations under the License.
+ */
+
+class NotFoundException extends Exception {}
+
+class ArgumentException extends Exception {}
+
+class NotMatchException extends Exception {}
+
+class ConfigException extends Exception{}
+
+class BlacklistException extends Exception{}
+
+class ImageException extends Exception{}
+
+class DbException extends Exception {
+    public function __construct(){
+        $this->message = mysql_error();
+        $this->code = mysql_errno();
+    }
+}
+
+class Exceptions{
+    /*public function __construct(){
+        $this->ci =& get_instance();
+    }*/
+}

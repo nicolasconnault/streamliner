@@ -1,0 +1,49 @@
+.simplemodal-data {
+    background-color: #FFFFFF;
+    border: 1px solid #CCCCCC;
+    border-radius: 20px 20px 20px 20px;
+    box-shadow: 0 0 100px #000000;
+    display: none;
+    padding: 50px;
+    width: 400px;
+    z-index: 10000;
+}
+.simplemodal-close {
+    background: url(/includes/pix/background-close.png) no-repeat scroll left top transparent;
+    cursor: pointer;
+    height: 36px;
+    position: absolute;
+    right: -15px;
+    top: -16px;
+    width: 36px;
+}
+.form-item {
+    position: relative;
+}
+.form-item .popup-icon {
+    background: url(/includes/pix/background-help.png) no-repeat scroll 0 0 transparent;
+    cursor: pointer;
+    display: block;
+    height: 20px;
+    position: absolute;
+    text-indent: -999em;
+    top: 0;
+    width: 20px;
+}
+
+i.info-icon span.info-content {
+    display: none;
+}
+
+.info-content.simplemodal-data {
+    display: inline-block;
+}
+
+.info-icon {
+    height: 16px;
+    width: 16px;
+    display: inline-block;
+    background-size: 16px;
+    cursor: pointer;
+    color: #0061B0;
+}

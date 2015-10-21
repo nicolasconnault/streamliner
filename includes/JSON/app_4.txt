@@ -1,0 +1,277 @@
+{
+    "BT_appConfig": {
+        "BT_items": [
+            {
+                "itemId": "JA00F7DA5492A9747589DA26B",
+                "itemType": "BT_app",
+                "buzztouchAppId": "JA00F7DA5492A9747589DA26B",
+                "buzztouchAPIKey": "EDCFD76EF5045A47733BC40",
+                "dataURL": "http://abilityware.com.au/shareability/bt/get/4",
+                "reportToCloudURL": "http://abilityware.com.au/shareability/bt/get_last_modified_date/4",
+                "registerForPushURL": "https://www.buzztouch.com/api/app/?command=registerForPush&appGuid=JA00F7DA5492A9747589DA26B&apiKey=EDCFD76EF5045A47733BC40&apiSecret=25AA0CE8066CDCC8AF2A7C8&deviceId=[deviceId]&deviceLatitude=[deviceLatitude]&deviceLongitude=[deviceLongitude]&deviceModel=[deviceModel]&userId=[userId]",
+                "lastModified": "Thu, 16 May 2013 03:20:49 +0000",
+                "lastPublished": "Thu, 16 May 2013 07:51:35 +0000",
+                "name": "Shareability",
+                "version": "1.0",
+                "currentMode": "",
+                "startLocationUpdates": "0",
+                "promptForPushNotifications": "0",
+                "allowRotation": "largeDevicesOnly",
+                "BT_themes": [
+                    {
+                        "itemId": "A98BC78BC122EF137D07FD6",
+                        "itemType": "BT_theme",
+                        "itemNickname": "Default Theme",
+                        "navBarStyle": "solid",
+                        "statusBarStyle": "default",
+                        "backgroundColor": "#FFFFFF",
+                        "splashScreenItemId": "A173C250CC1892E9EFE7F14"
+                    }
+                ],
+                "BT_tabs": [],
+                "BT_screens": [
+                    {
+                        "itemId": "9ED72A0089C4F3F54E665F5",
+                        "itemType": "BT_screen_menuButtons",
+                        "itemNickname": "Main Menu",
+                        "navBarTitleText": "Main Menu",
+                        "buttonLayoutStyle": "verticalLeft",
+                        "buttonLabelLayoutStyle": "middle",
+                        "preventAllScrolling": "0",
+                        "buttonLabelFontColor": "#FFFFFF",
+                        "buttonSizeSmallDevice": "50",
+                        "buttonPaddingSmallDevice": "10",
+                        "buttonCornerRadiusSmallDevice": "10",
+                        "buttonLabelFontSizeSmallDevice": "26",
+                        "buttonSizeLargeDevice": "50",
+                        "buttonPaddingLargeDevice": "10",
+                        "buttonCornerRadiusLargeDevice": "10",
+                        "backgroundImageURLSmallDevice": "http://abilityware.com.au/files/shareability/4/37841539076069fce4f1877e2d6aa403.png",
+                        "backgroundImageURLLargeDevice": "http://abilityware.com.au/files/shareability/4/37841539076069fce4f1877e2d6aa403.png",
+                        "backgroundImageScale": "fullScreen",
+                        "childItems": [
+                            {
+                                "itemId": "EAE98A73BFB2F7379BFD560",
+                                "itemType": "BT_buttonItem",
+                                "loadScreenWithItemId": "1EE522199C65FA6D0B21533",
+                                "titleText": "Phone",
+                                "imageURLSmallDevice": "http://abilityware.com.au/includes/pix/shareability/icons/blue_purple/phoneus.png",
+                                "imageURLLargeDevice": "http://abilityware.com.au/includes/pix/shareability/icons/blue_purple/phoneus.png"
+                            },
+                            {
+                                "itemId": "1105BD5F231646661C39421",
+                                "itemType": "BT_buttonItem",
+                                "loadScreenWithItemId": "B8F25B78E32AE57FD22406D",
+                                "titleText": "Newsletter",
+                                "imageURLSmallDevice": "http://abilityware.com.au/includes/pix/shareability/icons/blue_purple/newsletter.png",
+                                "imageURLLargeDevice": "http://abilityware.com.au/includes/pix/shareability/icons/blue_purple/newsletter.png"
+                            },
+                            {
+                                "itemId": "3AD3058A91F1AB457B0ABD3",
+                                "itemType": "BT_buttonItem",
+                                "loadScreenWithItemId": "3C0123E0937EF8EF592BDC9",
+                                "titleText": "Email",
+                                "imageURLSmallDevice": "http://abilityware.com.au/includes/pix/shareability/icons/blue_purple/emailus.png",
+                                "imageURLLargeDevice": "http://abilityware.com.au/includes/pix/shareability/icons/blue_purple/emailus.png"
+                            },
+                            {
+                                "itemId": "647CDF919D8BB67774FA469",
+                                "itemType": "BT_buttonItem",
+                                "loadScreenWithItemId": "58BB512EF54103DECBDE6AE",
+                                "titleText": "Location",
+                                "imageURLSmallDevice": "http://abilityware.com.au/includes/pix/shareability/icons/blue_purple/location2.png",
+                                "imageURLLargeDevice": "http://abilityware.com.au/includes/pix/shareability/icons/blue_purple/location2.png"
+                            },
+                            {
+                                "itemId": "82432CDBABDFB852BBC266F",
+                                "itemType": "BT_buttonItem",
+                                "loadScreenWithItemId": "F3E23AE0A60CD39A76F0ED3",
+                                "titleText": "Calendar",
+                                "imageURLSmallDevice": "http://abilityware.com.au/includes/pix/shareability/icons/blue_purple/calendar.png",
+                                "imageURLLargeDevice": "http://abilityware.com.au/includes/pix/shareability/icons/blue_purple/calendar.png"
+                            },
+                            {
+                                "itemId": "2EE4D9FBCA7D1C9891BC46F",
+                                "itemType": "BT_buttonItem",
+                                "loadScreenWithItemId": "5E9859C5A7B002AAD65B348",
+                                "titleText": "Website",
+                                "imageURLSmallDevice": "http://abilityware.com.au/includes/pix/shareability/icons/blue_purple/weblink.png",
+                                "imageURLLargeDevice": "http://abilityware.com.au/includes/pix/shareability/icons/blue_purple/weblink.png"
+                            },
+                            {
+                                "itemId": "6A7800F853F5F174A268A73",
+                                "itemType": "BT_buttonItem",
+                                "loadScreenWithItemId": "77B0123B28D16C7BB235008",
+                                "titleText": "Notifications",
+                                "imageURLSmallDevice": "http://abilityware.com.au/includes/pix/shareability/icons/blue_purple/anouncements1.png",
+                                "imageURLLargeDevice": "http://abilityware.com.au/includes/pix/shareability/icons/blue_purple/anouncements1.png"
+                            },
+                            {
+                                "itemId": "ED5A56BE0651DF0FDD8C19E",
+                                "itemType": "BT_buttonItem",
+                                "loadScreenWithItemId": "5B4C6D378B0F69181044FC9",
+                                "titleText": "Fixtures",
+                                "imageURLSmallDevice": "http://abilityware.com.au/includes/pix/shareability/icons/blue_purple/fixtures.png",
+                                "imageURLLargeDevice": "http://abilityware.com.au/includes/pix/shareability/icons/blue_purple/fixtures.png"
+                            },
+                            {
+                                "itemId": "E0A43AC5A9DDDAD4A11B6D0",
+                                "itemType": "BT_buttonItem",
+                                "loadScreenWithItemId": "B320CAA89EF330A973602F0",
+                                "titleText": "SMS",
+                                "imageURLSmallDevice": "http://abilityware.com.au/includes/pix/shareability/icons/blue_purple/textus.png",
+                                "imageURLLargeDevice": "http://abilityware.com.au/includes/pix/shareability/icons/blue_purple/textus.png"
+                            },
+                            {
+                                "itemId": "3C586F60A6B135864A0AB8F",
+                                "itemType": "BT_buttonItem",
+                                "loadScreenWithItemId": "2B126D1AE5A19FD0A0F9E5C",
+                                "titleText": "Articles",
+                                "imageURLSmallDevice": "http://abilityware.com.au/includes/pix/shareability/icons/blue_purple/anouncements1.png",
+                                "imageURLLargeDevice": "http://abilityware.com.au/includes/pix/shareability/icons/blue_purple/anouncements1.png"
+                            }
+                        ]
+                    },
+                    {
+                        "itemId": "A173C250CC1892E9EFE7F14",
+                        "itemType": "BT_screen_splash",
+                        "itemNickname": "Splash Screen",
+                        "navBarTitleText": "Splash Screen",
+                        "startTransitionAfterSeconds": "2",
+                        "transitionDurationSeconds": "1",
+                        "transitionType": "fade",
+                        "backgroundColor": "#000000",
+                        "backgroundImageURLSmallDevice": "http://abilityware.com.au/includes/pix/shareability/_splash.png",
+                        "backgroundImageURLLargeDevice": "http://abilityware.com.au/includes/pix/shareability/_splash.png",
+                        "backgroundImageScale": "center",
+                        "childItems": []
+                    },
+                    {
+                        "itemId": "77B0123B28D16C7BB235008",
+                        "itemType": "Rd_simplerss",
+                        "xmlItemTagName": "item",
+                        "xmlItemTitleName": "title",
+                        "xmlItemDescriptionName": "description",
+                        "xmlItemLinkName": "link",
+                        "rssItemRowTapTransitionType": 0,
+                        "rssItemShowBrowserBarBack": 0,
+                        "rssItemShowBrowserRefresh": 1,
+                        "navBarTitleText": "Notifications",
+                        "itemNickname": "Notifications",
+                        "dataURL": "http://abilityware.com.au/shareability/pull/push_history/4",
+                        "childItems": []
+                    },
+                    {
+                        "itemType": "WB_screen_menuImage",
+                        "itemNickname": "Home",
+                        "navBarTitleText": "Home",
+                        "listBackgroundColor": "#FFFFFF",
+                        "backgroundColor": "#FFFFFF",
+                        "imageFileName": "abstractblue.png",
+                        "itemId": "187A02889C538DCB1AF2F32",
+                        "childItems": []
+                    },
+                    {
+                        "itemId": "5B4C6D378B0F69181044FC9",
+                        "itemType": "BT_screen_pdfDoc",
+                        "itemNickname": "Fixtures",
+                        "navBarTitleText": "Fixtures",
+                        "dataURL": "http://abilityware.com.au/files/shareability/4/3042da7e1a25dac11ed1049c7a0a8cc3.pdf",
+                        "childItems": []
+                    },
+                    {
+                        "itemType": "BT_sendSms",
+                        "textMessage": "question about your app...",
+                        "textToNumber": "0435423748",
+                        "itemId": "B320CAA89EF330A973602F0",
+                        "itemNickname": "TextMessage",
+                        "childItems": []
+                    },
+                    {
+                        "itemId": "C47C06D0CAD961FD2103B9E",
+                        "itemType": "BT_screen_menuListSimple",
+                        "itemNickname": "Home Screen Menu",
+                        "navBarTitleText": "Home",
+                        "childItems": []
+                    },
+                    {
+                        "itemId": "58BB512EF54103DECBDE6AE",
+                        "itemType": "BT_screen_map",
+                        "itemNickname": "Location",
+                        "navBarTitleText": "Location",
+                        "singleLocationDefaultZoom": "15",
+                        "defaultMapType": "standard",
+                        "dataURL": "",
+                        "childItems": [
+                            {
+                                "itemId": "B31E5D624363C1FEA5F96EE",
+                                "itemType": "BT_mapLocation",
+                                "latitude": "-33.344214",
+                                "longitude": "115.653756",
+                                "title": "Location",
+                                "subTitle": ""
+                            }
+                        ]
+                    },
+                    {
+                        "itemType": "BT_screen_customURL",
+                        "forceRefresh": 0,
+                        "itemId": "F3E23AE0A60CD39A76F0ED3",
+                        "itemNickname": "Calendar",
+                        "navBarTitleText": "Calendar",
+                        "dataURL": "http://abilityware.com.au/shareability/pull/calendar/4",
+                        "childItems": []
+                    },
+                    {
+                        "itemType": "BT_sendEmail",
+                        "emailSubject": "question about your app...",
+                        "emailToAddress": "nicolas@themesolutions.com.au",
+                        "itemId": "3C0123E0937EF8EF592BDC9",
+                        "itemNickname": "Email",
+                        "childItems": []
+                    },
+                    {
+                        "itemId": "B8F25B78E32AE57FD22406D",
+                        "itemType": "BT_screen_pdfDoc",
+                        "itemNickname": "Newsletter",
+                        "navBarTitleText": "Newsletter",
+                        "dataURL": "http://abilityware.com.au/files/shareability/4/dfbb9ed60fc1d42931cf776fd353a8b1.pdf",
+                        "childItems": []
+                    },
+                    {
+                        "itemType": "BT_placeCall",
+                        "number": "0435423748",
+                        "itemId": "1EE522199C65FA6D0B21533",
+                        "itemNickname": "Phone",
+                        "navBarTitleText": "Phone us",
+                        "childItems": []
+                    },
+                    {
+                        "itemType": "BT_screen_customURL",
+                        "forceRefresh": 0,
+                        "itemId": "5E9859C5A7B002AAD65B348",
+                        "itemNickname": "URL",
+                        "navBarTitleText": "URL",
+                        "dataURL": "http://portal.com",
+                        "childItems": []
+                    },
+                    {
+                        "itemId": "2B126D1AE5A19FD0A0F9E5C",
+                        "itemType": "Rd_simplerss",
+                        "xmlItemTagName": "item",
+                        "xmlItemTitleName": "title",
+                        "xmlItemDescriptionName": "description",
+                        "xmlItemLinkName": "link",
+                        "rssItemRowTapTransitionType": 0,
+                        "rssItemShowBrowserBarBack": 0,
+                        "rssItemShowBrowserRefresh": 1,
+                        "navBarTitleText": "Articles",
+                        "itemNickname": "Articles",
+                        "dataURL": "http://portal.com",
+                        "childItems": []
+                    }
+                ]
+            }
+        ]
+    }
+}

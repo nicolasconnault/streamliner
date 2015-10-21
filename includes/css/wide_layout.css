@@ -1,0 +1,37 @@
+html, body {
+  height: 100%;
+}
+
+body {
+  padding: 50px 0 0 0;
+}
+
+.navbar-toggle {
+  margin-left: 15px;
+}
+
+body {
+padding: 0;
+}
+.navbar {
+right: auto;
+border: none;
+margin-bottom: -20px;
+}
+#page-wrapper {
+    margin-left: 0px;
+    margin-top: -20px;
+}
+.navmenu, .navbar-offcanvas {
+    width: 200px;
+}
+.navbar-toggle {
+display: block; /* force showing the toggle */
+}
+
+.navbar .navmenu-brand {
+    float: left;
+}
+.navbar  a.navmenu-brand {
+    color: #777;
+}

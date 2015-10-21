@@ -1,0 +1,1506 @@
+COMPRESSOR
+NEW ISSUE TYPE -
+Burnt out NEW STEP - Replace,evacuate system,Flush with nitrogen,Leak test,Pressure test,Pump system down,Rewire,Reclaim refrigerant,Readjust,Rectify
+Gas leak NEW STEP - Repair,Readjust,Rectify,evacuate system,Flush with nitrogen,Leak test,Pressure test,Pump system down,Reclaim refrigerant
+EDIT -
+Compressor model No
+Make and model No. of condensing unit
+Single or three phase compressor
+Contactor make,model and kilowatt
+Voltage of contactor coil
+Overload make,model and amperage
+Liquid line drier size. i.e. 1/2” 3/8”5/8”
+Suction line burn out filter drier size. i.e. 1/2” 3/8”5/8”
+Refrigerant type
+Requires rotalocks or not
+---
+DISCHARGE SERVICE VALVE
+NEW ISSUE TYPE -
+Damaged NEW STEP - Replace,evacuate system,Flush with nitrogen,Leak test,Pressure test,Pump system down,Reclaim refrigerant,Readjust,Rectify
+Jammed NEW STEP - Repair,evacuate system,Flush with nitrogen,Leak test,Pressure test,Pump system down,Reclaim refrigerant,Readjust,Rectify
+Rusted NEW STEP - Replace,evacuate system,Flush with nitrogen,Leak test,Pressure test,Pump system down,Reclaim refrigerant,Readjust,Rectify,Clear,Clean,Clean with brush,Wash
+Gas leak NEW STEP - Repair,Readjust,Rectify,evacuate system,Flush with nitrogen,Leak test,Pressure test,Pump system down,Reclaim refrigerant
+EDIT -
+Compressor model No
+Make and model No. of condensing unit
+Size of discharge pipe i.e. 1/2” 3/8”5/8”
+Size of discharge rota lock i.e. 1/2” 3/8”5/8”
+Flare type or welded type
+---
+DISCHARGE MUFFLER
+NEW ISSUE TYPE -
+Damaged NEW STEP - Replace,evacuate system,Flush with nitrogen,Leak test,Pressure test,Pump system down,Reclaim refrigerant,Readjust,Rectify
+Gas leak NEW STEP - Repair,evacuate system,Flush with nitrogen,Leak test,Pressure test,Pump system down,Reclaim refrigerant,Readjust,Rectify
+Faulty NEW STEP - Replace,evacuate system,Flush with nitrogen,Leak test,Pressure test,Pump system down,Reclaim refrigerant,Readjust,Rectify
+EDIT -
+Compressor model No
+Make and model No. of condensing unit
+Size of discharge pipe i.e. 1/2” 3/8”5/8”
+---
+OIL SEPERATOR
+NEW ISSUE TYPE -
+Damaged NEW STEP - Replace,evacuate system,Flush with nitrogen,Leak test,Pressure test,Pump system down,Reclaim refrigerant,Readjust,Rectify
+Faulty NEW STEP - Replace,evacuate system,Flush with nitrogen,Leak test,Pressure test,Pump system down,Reclaim refrigerant,Readjust,Rectify
+Gas leak NEW STEP - Repair,Readjust,Rectify,evacuate system,Flush with nitrogen,Leak test,Pressure test,Pump system down,Reclaim refrigerant
+EDIT -
+Make and model No. of condensing unit
+Physical size of oil separator
+Type oil in separator
+Size of pipe work off oil separator. 1/2” 3/8” 5/8”
+Any bracketing system for oil separator
+Internal or external oil float
+Flare type or welded type
+---
+OIL SEPERATOR FILTER
+NEW ISSUE TYPE -
+Damaged NEW STEP - Replace,evacuate system,Flush with nitrogen,Leak test,Pressure test,Pump system down,Rewire,Reclaim refrigerant,Readjust,Rectify
+Faulty NEW STEP - Replace,evacuate system,Flush with nitrogen,Leak test,Pressure test,Pump system down,Rewire,Reclaim refrigerant,Readjust,Rectify
+Blocked with dirt and debris NEW STEP - Repair,Clear,evacuate system,Flush with nitrogen,Leak test,Pressure test,Pump system down,Reclaim refrigerant,Readjust,Rectify
+Dirty NEW STEP - Repair,Clear,evacuate system,Flush with nitrogen,Leak test,Pressure test,Pump system down,Reclaim refrigerant,Readjust,Rectify
+EDIT -
+Make and model No. of condensing unit
+Make and model No. of oil separator
+What type of oil required
+---
+OIL PUMP
+NEW ISSUE TYPE -
+Damaged NEW STEP - Replace,evacuate system,Flush with nitrogen,Leak test,Pressure test,Pump system down,Rewire,Reclaim refrigerant,Readjust,Rectify
+Faulty NEW STEP - Replace,evacuate system,Flush with nitrogen,Leak test,Pressure test,Pump system down,Rewire,Reclaim refrigerant,Readjust,Rectify
+Gas leak NEW STEP - Repair,Readjust,Rectify,evacuate system,Flush with nitrogen,Leak test,Pressure test,Pump system down,Rewire,Reclaim refrigerant
+Out of calibration NEW STEP - Repair,Readjust,Rectify,clear,Rewire,Reset
+Burnt out NEW STEP - Replace,evacuate system,Flush with nitrogen,Leak test,Pressure test,Pump system down,Reclaim refrigerant,Reset,Rewire,Readjust,Rectify
+EDIT -
+Make and model No. of condensing unit
+Make and model No. of oil pump
+Type of oil
+---
+OIL SIGHT GLASS
+NEW ISSUE TYPE -
+Damaged NEW STEP - Replace,evacuate system,Flush with nitrogen,Leak test,Pressure test,Pump system down,Rewire,Reclaim refrigerant,Readjust,Rectify
+Faulty NEW STEP - Replace,evacuate system,Flush with nitrogen,Leak test,Pressure test,Pump system down,Rewire,Reclaim refrigerant,Readjust,Rectify
+Gas leak NEW STEP - Repair,Readjust,Rectify,evacuate system,Flush with nitrogen,Leak test,Pressure test,Pump system down,Rewire,Reclaim refrigerant
+EDIT -
+Make and model No. of condensing unit
+Make and model No. of oil sight glass
+Type of oil
+---
+OIL FLOAT
+NEW ISSUE TYPE -
+Damaged NEW STEP - Replace,evacuate system,Flush with nitrogen,Leak test,Pressure test,Pump system down,Rewire,Reclaim refrigerant,Readjust,Rectify
+Faulty NEW STEP - Replace,evacuate system,Flush with nitrogen,Leak test,Pressure test,Pump system down,Rewire,Reclaim refrigerant,Readjust,Rectify
+Gas leak NEW STEP - Repair,Readjust,Rectify,evacuate system,Flush with nitrogen,Leak test,Pressure test,Pump system down,Rewire,Reclaim refrigerant
+EDIT -
+Make and model No. of condensing unit
+Make and model No. of oil float
+Type of oil
+---
+OIL DISTRIBUTOR LINE
+NEW ISSUE TYPE -
+Damaged NEW STEP - Replace,evacuate system,Flush with nitrogen,Leak test,Pressure test,Pump system down,Reclaim refrigerant,Readjust,Rectify
+Faulty NEW STEP - Replace,evacuate system,Flush with nitrogen,Leak test,Pressure test,Pump system down,Reclaim refrigerant,Readjust,Rectify
+Blocked with dirt and debris NEW STEP - Repair,Clear,evacuate system,Flush with nitrogen,Leak test,Pressure test,Pump system down,Reclaim refrigerant,Readjust,Rectify
+Gas leak NEW STEP - Repair,Readjust,Rectify,evacuate system,Flush with nitrogen,Leak test,Pressure test,Pump system down,Reclaim refrigerant
+EDIT -
+Make and model No. of condensing unit
+Copper pipe or braded hose
+---
+OIL SEPERATOR SERVICE VALVE
+NEW ISSUE TYPE -
+Damaged NEW STEP - Replace,evacuate system,Flush with nitrogen,Leak test,Pressure test,Pump system down,Reclaim refrigerant,Readjust,Rectify
+Jammed NEW STEP - Repair,evacuate system,Flush with nitrogen,Leak test,Pressure test,Pump system down,Reclaim refrigerant,Readjust,Rectify
+Rusted NEW STEP - Replace,evacuate system,Flush with nitrogen,Leak test,Pressure test,Pump system down,Reclaim refrigerant,Readjust,Rectify,Clear,Clean,Clean with brush,Wash
+Gas leak NEW STEP - Repair,Readjust,Rectify,evacuate system,Flush with nitrogen,Leak test,Pressure test,Pump system down,Reclaim refrigerant
+EDIT -
+Compressor model No
+Make and model No. of condensing unit
+Size of oil separator pipe i.e. 1/2” 3/8”5/8”
+Size of rota lock i.e. 1/2” 3/8”5/8”
+Flare type or welded type
+---
+CONDENSOR COIL
+NEW ISSUE TYPE -
+Damaged NEW STEP - Replace,evacuate system,Flush with nitrogen,Leak test,Pressure test,Pump system down,rewire,Reclaim refrigerant,Readjust,Rectify
+Faulty NEW STEP - Replace,evacuate system,Flush with nitrogen,Leak test,Pressure test,Pump system down,rewire,Reclaim refrigerant,Readjust,Rectify
+Blocked with dirt and debris NEW STEP - Repair,Readjust,Rectify,Clear,Clean,Clean with brush,Wash
+Gas leak NEW STEP - Repair,Readjust,Rectify,evacuate system,Flush with nitrogen,Leak test,Pressure test,Pump system down,Reclaim refrigerant,Rewire
+EDIT -
+Make and model No. of condensing unit
+---
+PULLEY
+NEW ISSUE TYPE -
+Faulty NEW STEP - Repair,Readjust,Rectify,Reset,Clear
+Damaged NEW STEP - Replace,Readjust,Rectify,Reset
+Edit -
+Make and model of condensing unit
+Diameter of pulley
+What size shaft of pulley
+What type of lock ring
+How many v -belts
+V - belts size and make
+---
+FLY WHEEL
+NEW ISSUE TYPE -
+Faulty NEW STEP - Repair,Readjust,Rectify,Reset,Clear
+Damaged NEW STEP - Replace,Readjust,Rectify,Reset
+Edit -
+Make and model of condensing unit
+Make and model of compressor
+Diameter of fly wheel
+What size shaft of fly wheel
+How many v -belts
+V - belts size and make
+---
+CONDENSOR FAN MOTOR
+NEW ISSUE TYPE -
+Faulty NEW STEP - Repair,Readjust,Rectify,Reset,Rewire,Clear
+Burnt out NEW STEP - Replace,Readjust,Rectify,Reset,Rewire,Clear
+Rusted NEW STEP - repair,Readjust,Rectify,Reset,Clear,Clean
+EDIT -
+Make and model No. of condensing unit
+Model No. of fan motor
+Voltage of motor
+Capacitor required and how many
+What size Uf or Mfd
+Speed - variable or two or three speed
+Amperages
+Rpm
+---
+FAN BLADE
+NEW ISSUE TYPE -
+Damaged NEW STEP - Replace,Rewire,Readjust,Rectify
+Faulty NEW STEP - Replace,Rewire,Readjust,Rectify
+Dirty NEW STEP - Repair,Clear,Clean,Clean with brush,Wash
+EDIT -
+Diameter of fan blade
+Shaft size of fan motor and blade
+Make and model of fan motor
+Blade - clockwise or anti-clock wise too deliver air flows
+---
+CONDENSOR FAN COWL
+NEW ISSUE TYPE -
+Faulty NEW STEP - Repair,Readjust,Rectify,Reset,Rewire,Clear
+Damaged NEW STEP - Replace,Readjust,Rectify,Reset,Rewire,Clear
+EDIT -
+Make and model No. of condensing unit
+Make and model of fan motor
+---
+EVAPORATOR FAN COWL
+NEW ISSUE TYPE -
+Faulty NEW STEP - Repair,Readjust,Rectify,Reset,Rewire,Clear
+Damaged NEW STEP - Replace,Readjust,Rectify,Reset,Rewire,Clear
+EDIT -
+Make and model No. of evaporator unit
+Make and model of fan motor
+---
+CONDENSOR FAN GRILLE
+NEW ISSUE TYPE -
+Faulty NEW STEP - Repair,Readjust,Rectify,Reset,Rewire,Clear
+Damaged NEW STEP - Replace,Readjust,Rectify,Reset,Rewire,Clear
+EDIT -
+Make and model No. of condensing unit
+Make and model of fan motor
+---
+EVAPORATOR FAN GRILLE
+NEW ISSUE TYPE -
+Faulty NEW STEP - Repair,Readjust,Rectify,Reset,Rewire,Clear
+Damaged NEW STEP - Replace,Readjust,Rectify,Reset,Rewire,Clear
+EDIT -
+Make and model No. of evaporator unit
+Make and model of fan motor
+---
+REVERSING VALVE
+NEW ISSUE TYPE -
+Damaged NEW STEP - Replace,evacuate system,Flush with nitrogen,Leak test,Pressure test,Pump system down,Rewire,Reclaim refrigerant,Readjust,Rectify
+Faulty NEW STEP - Replace,evacuate system,Flush with nitrogen,Leak test,Pressure test,Pump system down,Rewire,Reclaim refrigerant,Readjust,Rectify
+Jammed NEW STEP - Repair,evacuate system,Flush with nitrogen,Leak test,Pressure test,Pump system down,Reclaim refrigerant,Readjust,Rectify
+Gas leak NEW STEP - Repair,Readjust,Rectify,evacuate system,Flush with nitrogen,Leak test,Pressure test,Pump system down,Reclaim refrigerant
+EDIT -
+Make and model No. of condensing unit
+Size of discharge pipe entering the reversing valve i.e. 1/2” 3/8”5/8”
+Size of three (3) pipes exiting the reversing valves i.e. 1/2” 3/8”5/8”
+Voltage of reversing valve coil
+---
+REVERSING VALVE COIL
+NEW ISSUE TYPE -
+Burnt out NEW STEP - Replace,Readjust,Rectify,Reset,Clear
+Faulty NEW STEP - Replace,Readjust,Rectify,Reset,Clear
+Rusted NEW STEP - Repair,Readjust,Rectify,Reset,Clear,Clean
+EDIT -
+Make and model No. of condensing unit
+Voltage of reversing valve coil
+What type of lead and plug (If required)
+---
+LIQUID RECIEVER
+NEW ISSUE TYPE -
+Damaged NEW STEP - Replace,evacuate system,Flush with nitrogen,Leak test,Pressure test,Pump system down,Reclaim refrigerant,Readjust,Rectify
+Rusted NEW STEP - Replace,evacuate system,Flush with nitrogen,Leak test,Pressure test,Pump system down,Reclaim refrigerant,Readjust,Rectify,Clear,Clean,Clean with brush,Wash
+Gas leak NEW STEP - Repair,Readjust,Rectify,evacuate system,Flush with nitrogen,Leak test,Pressure test,Pump system down,Reclaim refrigerant
+EDIT -
+Compressor model No
+Make and model No. of condensing unit
+Size of liquid line pipe i.e. 1/4” 1/2” 3/8”
+Size of liquid line rota lock i.e. 1/2” 3/8”5/8”
+Flare type or welded type
+---
+LIQUID LINE RECIEVER SERVICE VALVE
+NEW ISSUE TYPE -
+Damaged NEW STEP - Replace,evacuate system,Flush with nitrogen,Leak test,Pressure test,Pump system down,Reclaim refrigerant,Readjust,Rectify
+Jammed NEW STEP - Repair,evacuate system,Flush with nitrogen,Leak test,Pressure test,Pump system down,Reclaim refrigerant,Readjust,Rectify
+Rusted NEW STEP - Replace,evacuate system,Flush with nitrogen,Leak test,Pressure test,Pump system down,Reclaim refrigerant,Readjust,Rectify,Clear,Clean,Clean with brush,Wash
+Gas leak NEW STEP - Repair,Readjust,Rectify,evacuate system,Flush with nitrogen,Leak test,Pressure test,Pump system down,Reclaim refrigerant
+EDIT -
+Compressor model No
+Make and model No. of condensing unit
+Size of liquid line pipe i.e. 1/4” 1/2” 3/8”
+Size of liquid line rota lock i.e. 1/2” 3/8”5/8”
+Flare type or welded type
+---
+LIQUID LINE FILTER DRIER
+NEW ISSUE TYPE -
+Damaged NEW STEP - Replace,evacuate system,Flush with nitrogen,Leak test,Pressure test,Pump system down,Reclaim refrigerant,Readjust,Rectify
+Faulty NEW STEP - Replace,evacuate system,Flush with nitrogen,Leak test,Pressure test,Pump system down,Reclaim refrigerant,Readjust,Rectify
+Rusted NEW STEP - Replace,evacuate system,Flush with nitrogen,Leak test,Pressure test,Pump system down,Reclaim refrigerant,Readjust,Rectify,Clear,Clean,Clean with brush,Wash
+Gas leak NEW STEP - Repair,Readjust,Rectify,evacuate system,Flush with nitrogen,Leak test,Pressure test,Pump system down,Reclaim refrigerant
+EDIT -
+Size of filter drier i.e. 1/4”,1/2” 3/8”
+Make and model No. of filter drier
+Flare type or welded type
+---
+SIGHT GLASS
+NEW ISSUE TYPE -
+Damaged NEW STEP - Replace,evacuate system,Flush with nitrogen,Leak test,Pressure test,Pump system down,Reclaim refrigerant,Readjust,Rectify
+Faulty NEW STEP - Replace,evacuate system,Flush with nitrogen,Leak test,Pressure test,Pump system down,Reclaim refrigerant,Readjust,Rectify
+Gas leak NEW STEP - Repair,Readjust,Rectify,evacuate system,Flush with nitrogen,Leak test,Pressure test,Pump system down,Reclaim refrigerant
+EDIT -
+Size of sight glass i.e. 1/4”,1/2” 3/8”
+Make and model No. of sight glass
+Flare type or welded type
+Size of liquid line pipe i.e. 1/4”,1/2” 3/8”
+---
+SOLENOID VALVES
+NEW ISSUE TYPE -
+Damaged NEW STEP - Replace,evacuate system,Flush with nitrogen,Leak test,Pressure test,Pump system down,Rewire,Reclaim refrigerant,Readjust,Rectify
+Faulty NEW STEP - Replace,evacuate system,Flush with nitrogen,Leak test,Pressure test,Pump system down,Rewire,Reclaim refrigerant,Readjust,Rectify
+Gas leak NEW STEP - Repair,Readjust,Rectify,evacuate system,Flush with nitrogen,Leak test,Pressure test,Pump system down,Rewire,Reclaim refrigerant
+Jammed NEW STEP - Repair,evacuate system,Flush with nitrogen,Leak test,Pressure test,Pump system down,Rewire,Reclaim refrigerant,Readjust,Rectify
+EDIT -
+Size of solenoid valve i.e. 1/4”,1/2” 3/8”
+Make and model No. of solenoid valve
+Make and model No. of condensing unit
+Flare type or welded type
+Voltage of solenoid coil
+---
+SOLENOID COILS
+NEW ISSUE TYPE -
+Burnt out NEW STEP - Replace,Readjust,Rectify,Rewire electrics
+Jammed NEW STEP - Repair,Clear,Clean,Clean with brush,Wash,Reset,Readjust,Rectify,Rewire
+Dirty NEW STEP - Repair,Clear,Clean,Readjust,Rectify,Reset,Rewire
+Faulty NEW STEP - Repair,Readjust,Rectify,Reset,Rewire electrics,Clear
+Edit -
+Make and model of condensing unit
+What is the coil voltage
+Make and model No. of solenoid valve
+---
+ELECTRONIC TX VALVES
+NEW ISSUE TYPE -
+Damaged NEW STEP - Replace,evacuate system,Flush with nitrogen,Leak test,Pressure test,Pump system down,Reclaim refrigerant,Readjust,Rectify
+Faulty NEW STEP - Replace,evacuate system,Flush with nitrogen,Leak test,Pressure test,Pump system down,Reclaim refrigerant,Readjust,Rectify
+Blocked with dirt and debris NEW STEP - Repair,Clear,evacuate system,Flush with nitrogen,Leak test,Pressure test,Pump system down,Reclaim refrigerant,Readjust,Rectify
+Burnt out NEW STEP - Replace,evacuate system,Flush with nitrogen,Leak test,Pressure test,Pump system down,Rewire,Reclaim refrigerant,Readjust,Rectify
+Gas leak NEW STEP - Repair,Readjust,Rectify,evacuate system,Flush with nitrogen,Leak test,Pressure test,Pump system down,Reclaim refrigerant
+EDIT -
+Make and model No. of TX valve
+What refrigerant type
+What sensor (if required)
+Flare type or welded type
+Size of orifice
+---
+MECHANICAL TX VALVES
+NEW ISSUE TYPE -
+Damaged NEW STEP - Replace,evacuate system,Flush with nitrogen,Leak test,Pressure test,Pump system down,Reclaim refrigerant,Readjust,Rectify
+Faulty NEW STEP - Replace,evacuate system,Flush with nitrogen,Leak test,Pressure test,Pump system down,Reclaim refrigerant,Readjust,Rectify
+Blocked with dirt and debris NEW STEP - Repair,Clear,evacuate system,Flush with nitrogen,Leak test,Pressure test,Pump system down,Reclaim refrigerant,Readjust,Rectify
+Gas leak NEW STEP - Repair,Readjust,Rectify,evacuate system,Flush with nitrogen,Leak test,Pressure test,Pump system down,Reclaim refrigerant
+EDIT -
+Make and model No. of TX valve
+What refrigerant type
+What power element required (if required)
+Flare type or welded type
+Size of orifice
+---
+MECHANICAL TX VALVE POWER ELEMENTS
+NEW ISSUE TYPE -
+Damaged NEW STEP - Replace,evacuate system,Flush with nitrogen,Leak test,Pressure test,Pump system down,Reclaim refrigerant,Readjust,Rectify
+Faulty NEW STEP - Replace,evacuate system,Flush with nitrogen,Leak test,Pressure test,Pump system down,Reclaim refrigerant,Readjust,Rectify
+Blocked with dirt and debris NEW STEP - Repair,Clear,evacuate system,Flush with nitrogen,Leak test,Pressure test,Pump system down,Reclaim refrigerant,Readjust,Rectify
+Burnt out NEW STEP - Replace,evacuate system,Flush with nitrogen,Leak test,Pressure test,Pump system down,Rewire,Reclaim refrigerant,Readjust,Rectify
+Gas leak NEW STEP - Repair,Readjust,Rectify,evacuate system,Flush with nitrogen,Leak test,Pressure test,Pump system down,Reclaim refrigerant
+EDIT -
+Make and model No. of TX valve
+What refrigerant type
+Make and model No. of evaporator
+---
+ORIFICES
+NEW ISSUE TYPE -
+Damaged NEW STEP - Replace,evacuate system,Flush with nitrogen,Leak test,Pressure test,Pump system down,Reclaim refrigerant,Readjust,Rectify
+Faulty NEW STEP - Replace,evacuate system,Flush with nitrogen,Leak test,Pressure test,Pump system down,Reclaim refrigerant,Readjust,Rectify
+Blocked with dirt and debris NEW STEP - Repair,Clear,evacuate system,Flush with nitrogen,Leak test,Pressure test,Pump system down,Reclaim refrigerant,Readjust,Rectify
+Gas leak NEW STEP - Repair,Readjust,Rectify,evacuate system,Flush with nitrogen,Leak test,Pressure test,Pump system down,Reclaim refrigerant
+EDIT -
+Make and model No. of TX valve
+What refrigerant type
+Make and model No. of evaporator
+Size of orifice
+---
+EVAPORATOR FAN MOTOR
+NEW ISSUE TYPE -
+Damaged NEW STEP - Replace,Rewire,Readjust,Rectify
+Faulty NEW STEP - Replace,Rewire,Readjust,Rectify
+Blocked with dirt and debris NEW STEP - Repair,Clear,Flush with nitrogen,Rewire,Readjust,Rectify
+Burnt out NEW STEP - Replace,Reset,Rewire,Readjust,Rectify
+EDIT -
+Make and model No. fan motor
+Voltage
+Speed - variable or two or three speed
+Make and model No. of evaporator fan coil
+What size of capacitors (If required)
+Amperages
+Rpm
+---
+EVAPORATOR DRIP TRAY
+NEW ISSUE TYPE -
+Damaged NEW STEP - Replace,Readjust,Rectify
+Faulty NEW STEP - Replace,Readjust,Rectify
+Blocked with dirt and debris NEW STEP - Repair,Clear,Flush with nitrogen,Clean,Clean with brush,Wash,Readjust,Rectify
+EDIT -
+Make and model No. of evaporator fan coil
+Size of drip tray L x W
+Any drip pan heaters
+Any drain heaters
+---
+DRAIN HEATERS
+NEW ISSUE TYPE -
+Damaged NEW STEP - Replace,Readjust,Rectify
+Faulty NEW STEP - Replace,Readjust,Rectify
+Blocked with dirt and debris NEW STEP - Repair,Clear,Flush with nitrogen,Clean,Clean with brush,Wash,Readjust,Rectify
+Burnt out NEW STEP - Replace,evacuate system,Flush with nitrogen,Leak test,Pressure test,Pump system down,Rewire,Reclaim refrigerant,Readjust,Rectify
+Rusted NEW STEP - Replace,evacuate system,Flush with nitrogen,Leak test,Pressure test,Pump system down,Rewire,Reclaim refrigerant,Readjust,Rectify
+EDIT -
+Make and model No. of evaporator fan coil
+Size of drip tray L x W
+How many drain heaters
+Drainage pipe copper or plastic
+Length of drain heater
+Type of drain heater i.e. wraped externally around pipe or internally inserted into pipe
+What size of drain pipe insulation ( low temperature applications)
+---
+PAN HEATER
+NEW ISSUE TYPE -
+Damaged NEW STEP - Replace,Readjust,Rectify
+Faulty NEW STEP - Replace,Readjust,Rectify
+Blocked with dirt and debris NEW STEP - Repair,Clear,Flush with nitrogen,Clean,Clean with brush,Wash,Readjust,Rectify
+Burnt out NEW STEP - Replace,evacuate system,Flush with nitrogen,Leak test,Pressure test,Pump system down,Rewire,Reclaim refrigerant,Readjust,Rectify
+Rusted NEW STEP - Replace,evacuate system,Flush with nitrogen,Leak test,Pressure test,Pump system down,Rewire,Reclaim refrigerant,Readjust,Rectify
+EDIT -
+Make and model No. of evaporator fan coil
+Size of drip tray L x W
+How many pan heaters
+Length of pan heater
+Type and how many clips required
+---
+COPPER DISTIBUTION CAPILLARY
+NEW ISSUE TYPE -
+Damaged NEW STEP - Replace,evacuate system,Flush with nitrogen,Leak test,Pressure test,Pump system down,Reclaim refrigerant,Readjust,Rectify
+Faulty NEW STEP - Replace,evacuate system,Flush with nitrogen,Leak test,Pressure test,Pump system down,Reclaim refrigerant,Readjust,Rectify
+Blocked with dirt and debris NEW STEP - Repair,Clear,evacuate system,Flush with nitrogen,Leak test,Pressure test,Pump system down,Reclaim refrigerant,Readjust,Rectify
+Gas leak NEW STEP - Repair,Readjust,Rectify,evacuate system,Flush with nitrogen,Leak test,Pressure test,Pump system down,Reclaim refrigerant
+EDIT -
+Make and model No. of evaporator fan coil
+---
+MAIN DISTRIBUTION ORIFICES
+NEW ISSUE TYPE -
+Damaged NEW STEP - Replace,evacuate system,Flush with nitrogen,Leak test,Pressure test,Pump system down,Reclaim refrigerant,Readjust,Rectify
+Faulty NEW STEP - Replace,evacuate system,Flush with nitrogen,Leak test,Pressure test,Pump system down,Reclaim refrigerant,Readjust,Rectify
+Blocked with dirt and debris NEW STEP - Repair,Clear,evacuate system,Flush with nitrogen,Leak test,Pressure test,Pump system down,Reclaim refrigerant,Readjust,Rectify
+Gas leak NEW STEP - Repair,Readjust,Rectify,evacuate system,Flush with nitrogen,Leak test,Pressure test,Pump system down,Reclaim refrigerant
+EDIT -
+Make and model No. of TX valve
+Make and model No. of evaporator fan coil
+Size of orifice
+---
+CHECK VALVES
+NEW ISSUE TYPE -
+Damaged NEW STEP - Replace,evacuate system,Flush with nitrogen,Leak test,Pressure test,Pump system down,Reclaim refrigerant,Readjust,Rectify
+Faulty NEW STEP - Replace,evacuate system,Flush with nitrogen,Leak test,Pressure test,Pump system down,Reclaim refrigerant,Readjust,Rectify
+Gas leak NEW STEP - Repair,Readjust,Rectify,evacuate system,Flush with nitrogen,Leak test,Pressure test,Pump system down,Reclaim refrigerant
+Blocked with dirt and debris NEW STEP - Repair,Clear,evacuate system,Flush with nitrogen,Leak test,Pressure test,Pump system down,Reclaim refrigerant,Readjust,Rectify
+EDIT -
+Size of check valve i.e. 1/4”,1/2” 3/8”
+Make and model No. of check valve
+Make and model No. of condensing unit or evaporator
+Flare type or welded type
+---
+EVAPORATOR COIL
+NEW ISSUE TYPE -
+Damaged NEW STEP - Replace,evacuate system,Flush with nitrogen,Leak test,Pressure test,Pump system down,Rewire,Reclaim refrigerant,Readjust,Rectify
+Faulty NEW STEP - Replace,evacuate system,Flush with nitrogen,Leak test,Pressure test,Pump system down,Rewire,Reclaim refrigerant,Readjust,Rectify
+Blocked with dirt and debris NEW STEP - Repair,Clear,evacuate system,Flush with nitrogen,Leak test,Pressure test,Pump system down,Rewire,Reclaim refrigerant,Readjust,Rectify
+Gas leak NEW STEP - Repair,Readjust,Rectify,evacuate system,Flush with nitrogen,Leak test,Pressure test,Pump system down,Reclaim refrigerant
+EDIT -
+Make and model No. of evaporator fan coil
+---
+SUCTION LINE ACCUMILATOR
+NEW ISSUE TYPE -
+Damaged NEW STEP - Replace,evacuate system,Flush with nitrogen,Leak test,Pressure test,Pump system down,Reclaim refrigerant,Readjust,Rectify
+Faulty NEW STEP - Replace,evacuate system,Flush with nitrogen,Leak test,Pressure test,Pump system down,Reclaim refrigerant,Readjust,Rectify
+Rusted NEW STEP - Replace,evacuate system,Flush with nitrogen,Leak test,Pressure test,Pump system down,Reclaim refrigerant,Readjust,Rectify,Clear,Clean,Clean with brush,Wash
+Gas leak NEW STEP - Repair,Readjust,Rectify,evacuate system,Flush with nitrogen,Leak test,Pressure test,Pump system down,Reclaim refrigerant
+Edit -
+Make and model No. of condensing unit
+Physical size of accumulator
+Type of accumulator
+Size of pipe work off accumulator.. 1/2” 3/8” 5/8”
+Any bracketing system for accumulator
+Flare type or welded type
+---
+SUCTION BURN OUT FILTER DRIER
+NEW ISSUE TYPE -
+Damaged NEW STEP - Replace,evacuate system,Flush with nitrogen,Leak test,Pressure test,Pump system down,Reclaim refrigerant,Readjust,Rectify
+Faulty NEW STEP - Replace,evacuate system,Flush with nitrogen,Leak test,Pressure test,Pump system down,Reclaim refrigerant,Readjust,Rectify
+Gas leak NEW STEP - Repair,Readjust,Rectify,evacuate system,Flush with nitrogen,Leak test,Pressure test,Pump system down,Reclaim refrigerant
+EDIT -
+Size of suction filter drier i.e. 1/4”,1/2” 3/8”
+Make and model No. of suction filter drier
+Flare type or welded type
+---
+PRESSURE CONTROL CAPILLARY TUBES
+Damaged NEW STEP - Replace,evacuate system,Flush with nitrogen,Leak test,Pressure test,Pump system down,Reclaim refrigerant,Readjust,Rectify
+Faulty NEW STEP - Replace,evacuate system,Flush with nitrogen,Leak test,Pressure test,Pump system down,Reclaim refrigerant,Readjust,Rectify
+Gas leak NEW STEP - Repair,Readjust,Rectify,evacuate system,Flush with nitrogen,Leak test,Pressure test,Pump system down,Reclaim refrigerant
+EDIT -
+Size of capillary tube i.e. 1/4”,1/2” 3/8”
+Make and model No. condensing unit
+Flare type or welded type
+---
+DUAL PRESSURE CONTROL
+NEW ISSUE TYPE -
+Damaged NEW STEP - Replace,evacuate system,Flush with nitrogen,Leak test,Pressure test,Pump system down,Rewire,Reclaim refrigerant,Readjust,Rectify
+Faulty NEW STEP - Replace,evacuate system,Flush with nitrogen,Leak test,Pressure test,Pump system down,Rewire,Reclaim refrigerant,Readjust,Rectify
+Gas leak NEW STEP - Repair,Readjust,Rectify,evacuate system,Flush with nitrogen,Leak test,Pressure test,Pump system down,Rewire,Reclaim refrigerant
+Out of calibration NEW STEP - Repair,Readjust,Rectify,clear,Rewire
+Burnt out NEW STEP - Replace,evacuate system,Flush with nitrogen,Leak test,Pressure test,Pump system down,Reclaim refrigerant,Reset,Rewire,Readjust,Rectify
+EDIT -
+Make and model No. of pressure control
+Flare type or welded type capillary
+---
+SINGLE LOW PRESSURE CONTROL
+NEW ISSUE TYPE -
+Damaged NEW STEP - Replace,evacuate system,Flush with nitrogen,Leak test,Pressure test,Pump system down,Rewire,Reclaim refrigerant,Readjust,Rectify
+Faulty NEW STEP - Replace,evacuate system,Flush with nitrogen,Leak test,Pressure test,Pump system down,Rewire,Reclaim refrigerant,Readjust,Rectify
+Gas leak NEW STEP - Repair,Readjust,Rectify,evacuate system,Flush with nitrogen,Leak test,Pressure test,Pump system down,Rewire,Reclaim refrigerant
+Out of calibration NEW STEP - Repair,Readjust,Rectify,clear,Rewire
+Burnt out NEW STEP - Replace,evacuate system,Flush with nitrogen,Leak test,Pressure test,Pump system down,Reclaim refrigerant,Reset,Rewire,Readjust,Rectify
+EDIT -
+Make and model No. of pressure control
+Flare type or welded type capillary
+---
+SINGLE HIGH PRESSUURE CONTROL
+NEW ISSUE TYPE -
+Damaged NEW STEP - Replace,evacuate system,Flush with nitrogen,Leak test,Pressure test,Pump system down,Rewire,Reclaim refrigerant,Readjust,Rectify
+Faulty NEW STEP - Replace,evacuate system,Flush with nitrogen,Leak test,Pressure test,Pump system down,Rewire,Reclaim refrigerant,Readjust,Rectify
+Gas leak NEW STEP - Repair,Readjust,Rectify,evacuate system,Flush with nitrogen,Leak test,Pressure test,Pump system down,Rewire,Reclaim refrigerant
+Out of calibration NEW STEP - Repair,Readjust,Rectify,clear,Rewire
+Burnt out NEW STEP - Replace,evacuate system,Flush with nitrogen,Leak test,Pressure test,Pump system down,Reclaim refrigerant,Reset,Rewire,Readjust,Rectify
+EDIT -
+Make and model No. of pressure control
+Flare type or welded type capillary
+---
+FAN CYCLE SWITCH
+NEW ISSUE TYPE -
+Damaged NEW STEP - Replace,evacuate system,Flush with nitrogen,Leak test,Pressure test,Pump system down,Rewire,Reclaim refrigerant,Readjust,Rectify
+Faulty NEW STEP - Replace,evacuate system,Flush with nitrogen,Leak test,Pressure test,Pump system down,Rewire,Reclaim refrigerant,Readjust,Rectify
+Gas leak NEW STEP - Repair,Readjust,Rectify,evacuate system,Flush with nitrogen,Leak test,Pressure test,Pump system down,Rewire,Reclaim refrigerant
+Out of calibration NEW STEP - Repair,Readjust,Rectify,clear,Rewire,Reset
+Burnt out NEW STEP - Replace,evacuate system,Flush with nitrogen,Leak test,Pressure test,Pump system down,Reclaim refrigerant,Reset,Rewire,Readjust,Rectify
+EDIT -
+Make and model No. of condensing unit
+Make and model No. of fan cycle switch
+Voltage of fan cycle switch
+What type of fan cycle switch
+i.e. welded in line with depressor or non-welded free standing with capillary
+---
+OIL PRESSURE CONTROL
+NEW ISSUE TYPE -
+Damaged NEW STEP - Replace,evacuate system,Flush with nitrogen,Leak test,Pressure test,Pump system down,Rewire,Reclaim refrigerant,Readjust,Rectify
+Faulty NEW STEP - Replace,evacuate system,Flush with nitrogen,Leak test,Pressure test,Pump system down,Rewire,Reclaim refrigerant,Readjust,Rectify
+Gas leak NEW STEP - Repair,Readjust,Rectify,evacuate system,Flush with nitrogen,Leak test,Pressure test,Pump system down,Rewire,Reclaim refrigerant
+Out of calibration NEW STEP - Repair,Readjust,Rectify,clear,Rewire
+Burnt out NEW STEP - Replace,evacuate system,Flush with nitrogen,Leak test,Pressure test,Pump system down,Reclaim refrigerant,Reset,Rewire,Readjust,Rectify
+EDIT -
+Make and model No. of oil pressure control
+Voltage of oil pressure control
+What type of oil pressure control
+i.e. welded in line with depressor or non-welded free standing with capillary
+Flare type or welded type capillary
+---
+OIL PRESURE SWITCH
+NEW ISSUE TYPE -
+Damaged NEW STEP - Replace,evacuate system,Flush with nitrogen,Leak test,Pressure test,Pump system down,Rewire,Reclaim refrigerant,Readjust,Rectify
+Faulty NEW STEP - Replace,evacuate system,Flush with nitrogen,Leak test,Pressure test,Pump system down,Rewire,Reclaim refrigerant,Readjust,Rectify
+Gas leak NEW STEP - Repair,Readjust,Rectify,evacuate system,Flush with nitrogen,Leak test,Pressure test,Pump system down,Rewire,Reclaim refrigerant
+Out of calibration NEW STEP - Repair,Readjust,Rectify,clear,Rewire
+Burnt out NEW STEP - Replace,evacuate system,Flush with nitrogen,Leak test,Pressure test,Pump system down,Reclaim refrigerant,Reset,Rewire,Readjust,Rectify
+EDIT -
+Make and model No. of condensing unit
+Make and model No. of oil pressure switch
+Voltage of oil pressure switch
+What type of oil pressure switch
+i.e. welded in line with depressor or non - welded free standing with capillary
+---
+CRANKCASE SUMP HEATER
+NEW ISSUE TYPE -
+Damaged NEW STEP - Replace,Rewire,Readjust,Rectify
+Faulty NEW STEP - Replace,Rewire,Readjust,Rectify
+Burnt out NEW STEP - Replace,Reset,Rewire,Readjust,Rectify
+EDIT -
+Make and model No. of condensing unit
+Make and model No. of compressor
+What type of sump heater i.e. rap around or plug type
+Voltage of sump heater
+---
+CAPILLARY TUBES WITH FLARE NUTS
+Damaged NEW STEP - Replace,evacuate system,Flush with nitrogen,Leak test,Pressure test,Pump system down,Reclaim refrigerant,Readjust,Rectify
+Faulty NEW STEP - Replace,evacuate system,Flush with nitrogen,Leak test,Pressure test,Pump system down,Reclaim refrigerant,Readjust,Rectify
+Gas leak NEW STEP - Repair,Readjust,Rectify,evacuate system,Flush with nitrogen,Leak test,Pressure test,Pump system down,Reclaim refrigerant
+EDIT -
+Size of capillary tube i.e. 1/4”,1/2” 3/8”
+Make and model No. condensing unit
+Flare type or welded type
+---
+PRESSURE CONTROL MOUNTING BRACKET
+NEW ISSUE TYPE -
+Damaged NEW STEP - Replace,Rewire,Readjust,Rectify
+Rusted NEW STEP - Replace,Rewire,Readjust,Rectify
+Faulty NEW STEP - Replace,Rewire,Readjust,Rectify
+EDIT -
+Make and model No. of condensing unit
+Make and model No. of pressure control
+---
+SHRADER VALVES
+NEW ISSUE TYPE -
+Damaged NEW STEP - Replace,evacuate system,Flush with nitrogen,Leak test,Pressure test,Pump system down,Reclaim refrigerant,Readjust,Rectify
+Jammed NEW STEP - Repair,evacuate system,Flush with nitrogen,Leak test,Pressure test,Pump system down,Reclaim refrigerant,Readjust,Rectify
+Rusted NEW STEP - Replace,evacuate system,Flush with nitrogen,Leak test,Pressure test,Pump system down,Reclaim refrigerant,Readjust,Rectify,Clear,Clean,Clean with brush,Wash
+Gas leak NEW STEP - Repair,Readjust,Rectify,evacuate system,Flush with nitrogen,Leak test,Pressure test,Pump system down,Reclaim refrigerant
+EDIT -
+Make and model No. of condensing unit
+Size of pipe i.e. 1/4” 1/2” 3/8”
+Size of shrader valve i.e. 1/2” 3/8”5/8”
+Flare type or welded type
+---
+BEARINGS
+NEW ISSUE TYPE -
+Faulty NEW STEP - Repair,Readjust,Rectify,Reset,Clear
+Damaged NEW STEP - Replace,Readjust,Rectify,Reset
+Imploded NEW STEP - Replace,Readjust,Rectify,Reset
+Rusted NEW STEP - Replace,Readjust,Rectify,Reset
+Edit -
+Make and model of condensing unit
+Make and model of fan motors
+Diameter of bearing
+What size shaft of bearing
+---
+SUCTION SERVICE VALVE
+NEW ISSUE TYPE -
+Damaged NEW STEP - Replace,evacuate system,Flush with nitrogen,Leak test,Pressure test,Pump system down,Reclaim refrigerant,Readjust,Rectify
+Jammed NEW STEP - Repair,evacuate system,Flush with nitrogen,Leak test,Pressure test,Pump system down,Reclaim refrigerant,Readjust,Rectify
+Rusted NEW STEP - Replace,evacuate system,Flush with nitrogen,Leak test,Pressure test,Pump system down,Reclaim refrigerant,Readjust,Rectify,Clear,Clean,Clean with brush,Wash
+Gas leak NEW STEP - Repair,Readjust,Rectify,evacuate system,Flush with nitrogen,Leak test,Pressure test,Pump system down,Reclaim refrigerant
+EDIT -
+Compressor model No
+Make and model No. of condensing unit
+Size of suction line pipe i.e. 1/4” 1/2” 3/8”
+Size of suction line rota lock i.e. 1/2” 3/8”5/8”
+Flare type or welded type
+---
+EVAPORATOR PRESSURE REGULATOR
+NEW ISSUE TYPE -
+Damaged NEW STEP - Replace,evacuate system,Flush with nitrogen,Leak test,Pressure test,Pump system down,Reclaim refrigerant,Readjust,Rectify
+Jammed NEW STEP - Repair,evacuate system,Flush with nitrogen,Leak test,Pressure test,Pump system down,Reclaim refrigerant,Readjust,Rectify
+Rusted NEW STEP - Replace,evacuate system,Flush with nitrogen,Leak test,Pressure test,Pump system down,Reclaim refrigerant,Readjust,Rectify,Clear,Clean,Clean with brush,Wash
+Gas leak NEW STEP - Repair,Readjust,Rectify,evacuate system,Flush with nitrogen,Leak test,Pressure test,Pump system down,Reclaim refrigerant
+Out of calibration NEW STEP - Repair,Readjust,Rectify,Reset
+EDIT -
+Make and model No. of evaporator
+Make and model No. of condensing unit
+Make and model No. EPR
+Size of suction line pipe i.e. 1/4” 1/2” 3/8”
+Flare type or welded type
+---
+CRANKCASE PRESSURE REGULATOR
+NEW ISSUE TYPE -
+Damaged NEW STEP - Replace,evacuate system,Flush with nitrogen,Leak test,Pressure test,Pump system down,Reclaim refrigerant,Readjust,Rectify
+Jammed NEW STEP - Repair,evacuate system,Flush with nitrogen,Leak test,Pressure test,Pump system down,Reclaim refrigerant,Readjust,Rectify
+Rusted NEW STEP - Replace,evacuate system,Flush with nitrogen,Leak test,Pressure test,Pump system down,Reclaim refrigerant,Readjust,Rectify,Clear,Clean,Clean with brush,Wash
+Gas leak NEW STEP - Repair,Readjust,Rectify,evacuate system,Flush with nitrogen,Leak test,Pressure test,Pump system down,Reclaim refrigerant
+Out of calibration NEW STEP - Repair,Readjust,Rectify,Reset
+EDIT -
+Make and model No. of compressor
+Make and model No. of condensing unit
+Make and model No. of CPR
+Size of suction line pipe i.e. 1/4” 1/2” 3/8”
+Size of suction line rota lock i.e. 1/2” 3/8”5/8”
+Flare type or welded type
+---
+MECHANICAL THERMOSTAT
+NEW ISSUE TYPE -
+Damaged NEW STEP - Replace,Rewire,Readjust,Rectify
+Faulty NEW STEP - Replace,Rewire,Readjust,Rectify
+Blocked with dirt and debris NEW STEP - Repair,Clear,Flush with nitrogen,Rewire,Readjust,Rectify
+Burnt out NEW STEP - Replace,Reset,Rewire,Readjust,Rectify
+Out of calibration NEW STEP - Replace,Readjust,Rectify,clear,Rewire,Reset
+EDIT -
+Make and model No. of thermostat unit
+What type of thermostat
+Voltage of thermostat
+Transformer required
+---
+ELECTRONIC THERMOSTAT
+NEW ISSUE TYPE -
+Damaged NEW STEP - Replace,Rewire,Readjust,Rectify
+Faulty NEW STEP - Replace,Rewire,Readjust,Rectify
+Blocked with dirt and debris NEW STEP - Repair,Clear,Flush with nitrogen,Rewire,Readjust,Rectify
+Burnt out NEW STEP - Replace,Reset,Rewire,Readjust,Rectify
+Out of calibration NEW STEP - Replace,Readjust,Rectify,clear,Rewire,Reset
+EDIT -
+Make and model No. of thermostat unit
+What type of thermostat
+Voltage of thermostat
+Transformer required
+---
+ELECTRONIC SENSORS
+NEW ISSUE TYPE -
+Damaged NEW STEP - Replace,Rewire,Readjust,Rectify
+Faulty NEW STEP - Replace,Rewire,Readjust,Rectify
+Blocked with dirt and debris NEW STEP - Repair,Clear,Flush with nitrogen,Rewire,Readjust,Rectify
+Burnt out NEW STEP - Replace,Reset,Rewire,Readjust,Rectify
+Out of calibration NEW STEP - Replace,Readjust,Rectify,clear,Rewire,Reset
+EDIT -
+Make and model No. of sensor attached to unit
+What type of sensor
+Voltage of sensor
+---
+ELECTRONIC THERMOSTAT MOUNTING BOX
+NEW ISSUE TYPE -
+Damaged NEW STEP - Replace,Rewire,Readjust,Rectify
+Faulty NEW STEP - Replace,Rewire,Readjust,Rectify
+EDIT -
+Make and model No. of mounting box attached to unit
+What type of mounting box
+Metal or plastic
+---
+PRESSURE CONTROL MOUNTING BRACKETS
+NEW ISSUE TYPE -
+Damaged NEW STEP - Replace,Rewire,Readjust,Rectify
+Faulty NEW STEP - Replace,Rewire,Readjust,Rectify
+EDIT -
+Make and model No. of pressure control attached to unit
+What type of mounting bracket
+Metal or plastic
+---
+VIBRATION MOUNTS
+NEW ISSUE TYPE -
+Faulty NEW STEP - Repair,Readjust,Rectify,Reset,Clear
+Damaged NEW STEP - Replace,Readjust,Rectify,Reset
+Edit -
+Make and model of condensing unit
+What size vibration mounts
+What type of vibration mounts
+Model No. of vibration mounts
+Plastic or metal
+---
+VIBRATION WAFFLE PAD
+NEW ISSUE TYPE -
+Faulty NEW STEP - Repair,Readjust,Rectify,Reset,Clear
+Damaged NEW STEP - Replace,Readjust,Rectify,Reset
+Edit -
+Make and model of condensing unit
+What size waffle pads
+---
+SENSOR
+NEW ISSUE TYPE -
+Damaged NEW STEP - Replace,Rewire,Readjust,Rectify
+Faulty NEW STEP - Replace,Rewire,Readjust,Rectify
+Blocked with dirt and debris NEW STEP - Repair,Clear,Flush with nitrogen,Rewire,Readjust,Rectify
+Burnt out NEW STEP - Replace,Reset,Rewire,Readjust,Rectify
+Out of calibration NEW STEP - Replace,Readjust,Rectify,clear,Rewire,Reset
+EDIT -
+Make and model No. of sensor
+What type of sensor. i.e. NTC or PTC
+Voltage of sensor
+Transformer required
+---
+ROTALOCKS
+NEW ISSUE TYPE -
+Damaged NEW STEP - Replace,evacuate system,Flush with nitrogen,Leak test,Pressure test,Pump system down,Reclaim refrigerant,Readjust,Rectify
+Jammed NEW STEP - Replace,evacuate system,Flush with nitrogen,Leak test,Pressure test,Pump system down,Reclaim refrigerant,Readjust,Rectify
+Rusted NEW STEP - Replace,evacuate system,Flush with nitrogen,Leak test,Pressure test,Pump system down,Reclaim refrigerant,Readjust,Rectify,Clear,Clean,Clean with brush,Wash
+Gas leak NEW STEP - Repair,Readjust,Rectify,evacuate system,Flush with nitrogen,Leak test,Pressure test,Pump system down,Reclaim refrigerant
+EDIT -
+Compressor model No
+Make and model No. of condensing unit
+Size of pipe i.e. 1/4” 1/2” 3/8”
+Size of rota lock i.e. 1/2” 3/8”5/8”
+Flare type or welded type
+---
+TRANSFORMERS
+NEW ISSUE TYPE -
+Damaged NEW STEP - Replace,Readjust,Rectify,Reset,Rewire
+Burnt out NEW STEP - Replace,Readjust,Rectify,Rewire electrics,Reset,Clear
+Edit -
+Make and model of condensing unit
+Make and model of transformer
+What voltage and amperage
+What is the voltage transferring i.e. 240v to 24v
+---
+CONTROL CABLING
+NEW ISSUE TYPE -
+Faulty NEW STEP - Repair,Readjust,Rectify,Reset,Clear,Rewire
+Damaged NEW STEP - Replace,Readjust,Rectify,Reset,Rewire
+Burnt out NEW STEP - Replace,Readjust,Rectify,Rewire electrics,Reset,Clear
+Edit -
+Make and model of condensing unit and evaporator
+How many meters required
+Type of cables and how many
+Type of connecting ends i.e. plastic ends connecting onto pins of PCB’S or hard wired
+---
+MAINS CABLE
+NEW ISSUE TYPE -
+Faulty NEW STEP - Repair,Readjust,Rectify,Reset,Clear,Rewire
+Damaged NEW STEP - Replace,Readjust,Rectify,Reset,Rewire
+Burnt out NEW STEP - Replace,Readjust,Rectify,Rewire electrics,Reset,Clear
+Edit -
+Make and model of condensing unit and evaporator
+How many meters required
+Type of cables and how many
+Size of cable i.e. 2.5mm or 4mm
+Single or three phase required
+---
+CONTACTOR
+NEW ISSUE TYPE -
+Faulty NEW STEP - Repair,Readjust,Rectify,Reset,Clear,Rewire
+Damaged NEW STEP - Replace,Readjust,Rectify,Reset,Rewire
+Burnt out NEW STEP - Replace,Readjust,Rectify,Rewire electrics,Reset,Clear
+Out of calibration NEW STEP - Repair,Readjust,Rectify,Reset
+Jammed NEW STEP - Repair,Clear,Clean,Clean with brush,Wash,Reset,Readjust,Rectify
+Dirty NEW STEP - Repair,Clear,Clean,Readjust,Rectify,Reset
+Edit -
+Make and model of condensing unit
+Make and model of contactor
+What size contactor (kilowatts rating) KW
+Any additional axillary contacts required i.e. n/o OR n/c
+What voltage contactor coil. i.e. 240v or 440v
+Any extra cables required
+---
+CONTACTOR COIL
+NEW ISSUE TYPE -
+Burnt out NEW STEP - Replace,Readjust,Rectify,Rewire electrics
+Jammed NEW STEP - Repair,Clear,Clean,Clean with brush,Wash,Reset,Readjust,Rectify,Rewire
+Dirty NEW STEP - Repair,Clear,Clean,Readjust,Rectify,Reset,Rewire
+Faulty NEW STEP - Repair,Readjust,Rectify,Reset,Rewire electrics,Clear
+Edit -
+Make and model of condensing unit
+What is the coil voltage
+Make and model No. of contactor
+---
+OVERLOAD
+NEW ISSUE TYPE -
+Faulty NEW STEP - Repair,Readjust,Rectify,Reset,Clear,Rewire
+Damaged NEW STEP - Replace,Readjust,Rectify,Reset,Rewire
+Burnt out NEW STEP - Replace,Readjust,Rectify,Rewire electrics,Reset,Clear
+Out of calibration NEW STEP - Repair,Readjust,Rectify,Reset
+Edit -
+Make and model of condensing unit
+Make and model of overload
+What amperages on the overload
+Any extra cables required
+---
+POTENTIAL RELAY
+NEW ISSUE TYPE -
+Faulty NEW STEP - Repair,Readjust,Rectify,Reset,Clear,Rewire
+Damaged NEW STEP - Replace,Readjust,Rectify,Reset,Rewire
+Burnt out NEW STEP - Replace,Readjust,Rectify,Rewire electrics,Reset,Clear
+Out of calibration NEW STEP - Repair,Readjust,Rectify,Reset
+Jammed NEW STEP - Repair,Clear,Clean,Clean with brush,Wash,Reset,Readjust,Rectify
+Dirty NEW STEP - Repair,Clear,Clean,Readjust,Rectify,Reset
+Edit -
+Make and model of condensing unit
+Make and model of compressor
+Make and model No. relay
+What size relay (kilowatts rating) KW
+Any extra cables required
+---
+POTENTIAL OVERLOAD
+NEW ISSUE TYPE -
+Faulty NEW STEP - Repair,Readjust,Rectify,Reset,Clear,Rewire
+Damaged NEW STEP - Replace,Readjust,Rectify,Reset,Rewire
+Burnt out NEW STEP - Replace,Readjust,Rectify,Rewire electrics,Reset,Clear
+Out of calibration NEW STEP - Repair,Readjust,Rectify,Reset
+Jammed NEW STEP - Repair,Clear,Clean,Clean with brush,Wash,Reset,Readjust,Rectify
+Dirty NEW STEP - Repair,Clear,Clean,Readjust,Rectify,Reset
+Edit -
+Make and model of condensing unit
+Make and model of compressor
+Make and model No. overload
+What size overload (kilowatts rating) KW
+Any extra cables required
+---
+MAINS CIRCUIT BREAKER
+NEW ISSUE TYPE -
+Faulty NEW STEP - Repair,Readjust,Rectify,Reset,Clear,Rewire
+Damaged NEW STEP - Replace,Readjust,Rectify,Reset,Rewire
+Burnt out NEW STEP - Replace,Readjust,Rectify,Rewire electrics,Reset,Clear
+Rusted NEW STEP - Replace,Readjust,Rectify,Clear,Clean,Clean with brush,Rewire
+Edit -
+Make and model of condensing unit
+Make and model No. of circuit breaker
+Single or three phase circuit breaker
+Required amperages of circuit breaker
+Any additional cables or conduits required
+---
+CONTROL CIRCUIT BREAKER
+NEW ISSUE TYPE -
+Faulty NEW STEP - Repair,Readjust,Rectify,Reset,Clear,Rewire
+Damaged NEW STEP - Replace,Readjust,Rectify,Reset,Rewire
+Burnt out NEW STEP - Replace,Readjust,Rectify,Rewire electrics,Reset,Clear
+Rusted NEW STEP - Replace,Readjust,Rectify,Clear,Clean,Clean with brush,Rewire
+Edit -
+Make and model of condensing unit
+Make and model No. of circuit breaker
+Single or three phase circuit breaker
+Required amperages of circuit breaker
+Any additional cables or conduits required
+---
+MAIN ISOLATING SWITCH
+NEW ISSUE TYPE -
+Faulty NEW STEP - Repair,Readjust,Rectify,Reset,Clear,Rewire
+Damaged NEW STEP - Replace,Readjust,Rectify,Reset,Rewire
+Burnt out NEW STEP - Replace,Readjust,Rectify,Rewire electrics,Reset,Clear
+Rusted NEW STEP - Replace,Readjust,Rectify,Clear,Clean,Clean with brush,Rewire
+Edit -
+Make and model of condensing unit
+Single or three phase isolating switch
+Any additional cables or conduits required
+Required amperages of isolating switch
+---
+V - BELT
+NEW ISSUE TYPE -
+Faulty NEW STEP - Repair,Readjust,Rectify,Reset,Clear
+Damaged NEW STEP - Replace,Readjust,Rectify,Reset
+Edit -
+Make and model of condensing unit
+What size v - belt
+Model No. of v- belt
+---
+DEFROST TIMERS
+NEW ISSUE TYPE -
+Out of calibration NEW STEP - Repair,Readjust,Rectify,Reset
+Burnt out NEW STEP - Replace,Readjust,Rectify,Rewire electrics,Reset,Clear
+Faulty NEW STEP - Repair,Readjust,Rectify,Reset,Rewire electrics,Clear
+Damaged NEW STEP - Replace,Readjust,Rectify,Reset,rewire electrics
+Blocked with dirt and debris NEW STEP - Repair,Clear,Clean,Clean with brush,Wash,Reset,Readjust,Rectify
+Edit -
+what voltage
+Make and model of condensing unit
+Make and model of defrost timer unit
+Mechanical or electronic type
+If electronic type (transformer required)
+Any sensors required and how many
+Pressure terminated or not
+---
+PROGARMMABLE TIMERS
+NEW ISSUE TYPE -
+Out of calibration NEW STEP - Repair,Readjust,Rectify,Reset
+Burnt out NEW STEP - Replace,Readjust,Rectify,Rewire electrics,Reset,Clear
+Faulty NEW STEP - Repair,Readjust,Rectify,Reset,Rewire electrics,Clear
+Damaged NEW STEP - Replace,Readjust,Rectify,Reset,rewire electrics
+Blocked with dirt and debris NEW STEP - Repair,Clear,Clean,Clean with brush,Wash,Reset,Readjust,Rectify
+Edit -
+what voltage
+Make and model of condensing unit
+Make and model of programmable timer unit
+Mechanical or electronic
+If electronic type (transformer required)
+---
+HEATER BANKS
+NEW ISSUE TYPE -
+Damaged NEW STEP - Replace,evacuate system,Flush with nitrogen,Leak test,Pressure test,Pump system down,Rewire,Reclaim refrigerant,Readjust,Rectify
+Faulty NEW STEP - Repair,Rewire,Readjust,Rectify
+Burnt out NEW STEP - Replace,evacuate system,Flush with nitrogen,Leak test,Pressure test,Pump system down,Reclaim refrigerant,Reset,Rewire,Readjust,Rectify
+EDIT -
+Make and model No. of evaporator unit
+What type of heater bank
+Length of heater
+Voltage of heater bank
+Make and size contactor (KW) and overload
+Voltage of contactor coil
+Overload amperages
+---
+FAN DELAY CLIXON
+NEW ISSUE TYPE -
+Damaged NEW STEP - Replace,Rewire,Readjust,Rectify
+Faulty NEW STEP - Replace,Rewire,Readjust,Rectify
+Blocked with dirt and debris NEW STEP - Repair,Clear,Flush with nitrogen,Rewire,Readjust,Rectify
+Burnt out NEW STEP - Replace,Reset,Rewire,Readjust,Rectify
+Out of calibration NEW STEP - Replace,Readjust,Rectify,clear,Rewire,Reset
+EDIT -
+Make and model No. of evaporator unit
+What make and model of fan delay clixon
+Voltage of fan delay clixon
+How many cables exiting fan delay clixon
+---
+DEFROST SAFETY CLIXON
+NEW ISSUE TYPE -
+Damaged NEW STEP - Replace,Rewire,Readjust,Rectify
+Faulty NEW STEP - Replace,Rewire,Readjust,Rectify
+Blocked with dirt and debris NEW STEP - Repair,Clear,Flush with nitrogen,Rewire,Readjust,Rectify
+Burnt out NEW STEP - Replace,Reset,Rewire,Readjust,Rectify
+Out of calibration NEW STEP - Replace,Readjust,Rectify,clear,Rewire,Reset
+EDIT -
+Make and model No. of evaporator unit
+What make and model of defrost clixon
+Voltage of clixon
+How many cables exiting clixon
+---
+THERMISTOR
+NEW ISSUE TYPE -
+Damaged NEW STEP - Replace,Rewire,Readjust,Rectify
+Faulty NEW STEP - Replace,Rewire,Readjust,Rectify
+Blocked with dirt and debris NEW STEP - Repair,Clear,Flush with nitrogen,Rewire,Readjust,Rectify
+Burnt out NEW STEP - Replace,Reset,Rewire,Readjust,Rectify
+Out of calibration NEW STEP - Replace,Readjust,Rectify,clear,Rewire,Reset
+EDIT -
+Make and model No. of thermistor is attached too
+What type of thermistor i.e. electronic or mechanical
+If electronic what is Voltage of thermistor
+---
+TERMINAL BLOCK
+NEW ISSUE TYPE -
+Damaged NEW STEP - Replace,Rewire,Readjust,Rectify
+Faulty NEW STEP - Repair,Rewire,Readjust,Rectify
+Blocked with dirt and debris NEW STEP - Repair,Clear,Flush with nitrogen,Rewire,Readjust,Rectify
+Burnt out NEW STEP - Replace,Reset,Rewire,Readjust,Rectify
+EDIT -
+Make and model No. of terminal block is attached too
+What type of terminal block
+What voltage is required on this terminal block
+What size cables entering terminal block
+---
+JUCTION BOX
+NEW ISSUE TYPE -
+Damaged NEW STEP - Replace,Rewire,Readjust,Rectify
+Faulty NEW STEP - Repair,Rewire,Readjust,Rectify
+Blocked with dirt and debris NEW STEP - Repair,Clear,Flush with nitrogen,Rewire,Readjust,Rectify
+Burnt out NEW STEP - Replace,Reset,Rewire,Readjust,Rectify
+EDIT -
+Make and model No. of junction box is attached too
+What type of terminal block
+Plastic or metal
+What voltage is required on this junction box
+What size cables entering junction box
+---
+RUN CAPACITOR
+NEW ISSUE TYPE -
+Faulty NEW STEP - Repair,Readjust,Rectify,Reset,Clear,Rewire
+Damaged NEW STEP - Replace,Readjust,Rectify,Reset,Rewire
+Burnt out NEW STEP - Replace,Readjust,Rectify,Rewire electrics,Reset,Clear
+Rusted NEW STEP - Replace,Readjust,Rectify,Clear,Clean,Clean with brush
+Edit -
+Make and model of capacitor
+Any extra cables required
+What size is capacitor mfd or uf
+What is the voltage of capacitor
+---
+START CAPACITOR
+NEW ISSUE TYPE -
+Faulty NEW STEP - Repair,Readjust,Rectify,Reset,Clear,Rewire
+Damaged NEW STEP - Replace,Readjust,Rectify,Reset,Rewire
+Burnt out NEW STEP - Replace,Readjust,Rectify,Rewire electrics,Reset,Clear
+Rusted NEW STEP - Replace,Readjust,Rectify,Clear,Clean,Clean with brush
+Edit -
+Make and model of capacitor
+Any extra cables required
+What size is capacitor mfd or uf
+What is the voltage of capacitor
+---
+FUSES
+NEW ISSUE TYPE -
+Faulty NEW STEP - Repair,Readjust,Rectify,Reset,Clear,Rewire
+Damaged NEW STEP - Replace,Readjust,Rectify,Reset,Rewire
+Burnt out NEW STEP - Replace,Readjust,Rectify,Rewire electrics,Reset,Clear
+Rusted NEW STEP - Replace,Readjust,Rectify,Clear,Clean,Clean with brush,Rewire
+Edit -
+Make and model of fuses
+Length of fuse
+Voltage of fuses
+Amperage of fuses
+Type of fuse i.e. glass slow blow,non - slow blow,ceramic
+---
+PRINTED CIRCUIT BOARDS (PCB)
+NEW ISSUE TYPE -
+Burnt out NEW STEP - Replace,Readjust,Rectify,Rewire electrics,Reset,Clear
+Faulty NEW STEP - Repair,Readjust,Rectify,Reset,Clear,Rewire
+Edit -
+Make and model of unit that PCB is attached too
+Make and model No. of PCB
+What type of ends on the PCB i.e. plastic or hard wired in
+Any extra cables required
+How many PCB are required
+Any transformers required
+---
+COPPER PIPE
+NEW ISSUE TYPE -
+Damaged NEW STEP - Replace,evacuate system,Flush with nitrogen,Leak test,Pressure test,Pump system down,Reclaim refrigerant,Readjust,Rectify
+Faulty NEW STEP - Replace,evacuate system,Flush with nitrogen,Leak test,Pressure test,Pump system down,Reclaim refrigerant,Readjust,Rectify
+Gas leak NEW STEP - Repair,Readjust,Rectify,evacuate system,Flush with nitrogen,Leak test,Pressure test,Pump system down,Reclaim refrigerant
+Blocked with dirt and debris NEW STEP - Repair,Clear,evacuate system,Flush with nitrogen,Leak test,Pressure test,Pump system down,Reclaim refrigerant,Readjust,Rectify
+EDIT -
+Size of copper pipe i.e. 1/4”,1/2” 3/8”
+Make and model No. of condensing unit
+Flare type or welded type
+How many meters required
+---
+COPPER PIPE CLIPS
+NEW ISSUE TYPE -
+Faulty NEW STEP - Replace,evacuate system,Flush with nitrogen,Leak test,Pressure test,Pump system down,Reclaim refrigerant,Readjust,Rectify,Clear,Clean,Clean with brush,Wash,Rewire
+Rusted NEW STEP - Replace,evacuate system,Flush with nitrogen,Leak test,Pressure test,Pump system down,Reclaim refrigerant,Readjust,Rectify,Clear,Clean,Clean with brush,Wash,Rewire
+Damaged NEW STEP - Replace,evacuate system,Flush with nitrogen,Leak test,Pressure test,Pump system down,Reclaim refrigerant,Readjust,Rectify,Clear,Clean,Clean with brush,Wash,Rewire
+Gas leak NEW STEP - Repair,Readjust,Rectify,evacuate system,Flush with nitrogen,Leak test,Pressure test,Pump system down,Reclaim refrigerant
+Edit -
+Make and model of copper pipe clip
+What size pipe clips i.e. 1/4”,1/2” 3/8”
+Gavinized or powder coated
+---
+PIPE BRACKETS
+NEW ISSUE TYPE -
+Faulty NEW STEP - Replace,evacuate system,Flush with nitrogen,Leak test,Pressure test,Pump system down,Reclaim refrigerant,Readjust,Rectify,Clear,Clean,Clean with brush,Wash,Rewire
+Rusted NEW STEP - Replace,evacuate system,Flush with nitrogen,Leak test,Pressure test,Pump system down,Reclaim refrigerant,Readjust,Rectify,Clear,Clean,Clean with brush,Wash,Rewire
+Damaged NEW STEP - Replace,evacuate system,Flush with nitrogen,Leak test,Pressure test,Pump system down,Reclaim refrigerant,Readjust,Rectify,Clear,Clean,Clean with brush,Wash,Rewire
+Gas leak NEW STEP - Repair,Readjust,Rectify,evacuate system,Flush with nitrogen,Leak test,Pressure test,Pump system down,Reclaim refrigerant
+Edit -
+Make and model of condensing unit
+What size pipe brackets L x W
+Model No. of pipe brackets
+Gavinized or powder coated
+---
+COPPER 90 DEGREE ELBOW
+NEW ISSUE TYPE -
+Damaged NEW STEP - Replace,evacuate system,Flush with nitrogen,Leak test,Pressure test,Pump system down,Reclaim refrigerant,Readjust,Rectify
+Faulty NEW STEP - Replace,evacuate system,Flush with nitrogen,Leak test,Pressure test,Pump system down,Reclaim refrigerant,Readjust,Rectify
+Gas leak NEW STEP - Repair,Readjust,Rectify,evacuate system,Flush with nitrogen,Leak test,Pressure test,Pump system down,Reclaim refrigerant
+Blocked with dirt and debris NEW STEP - Repair,Clear,evacuate system,Flush with nitrogen,Leak test,Pressure test,Pump system down,Reclaim refrigerant,Readjust,Rectify
+EDIT -
+Size of copper elbow i.e. 1/4”,1/2” 3/8”
+Make and model No. of condensing and evaporator unit
+---
+COPPER 45 DEGREE ELBOW
+NEW ISSUE TYPE -
+Damaged NEW STEP - Replace,evacuate system,Flush with nitrogen,Leak test,Pressure test,Pump system down,Reclaim refrigerant,Readjust,Rectify
+Faulty NEW STEP - Replace,evacuate system,Flush with nitrogen,Leak test,Pressure test,Pump system down,Reclaim refrigerant,Readjust,Rectify
+Gas leak NEW STEP - Repair,Readjust,Rectify,evacuate system,Flush with nitrogen,Leak test,Pressure test,Pump system down,Reclaim refrigerant
+Blocked with dirt and debris NEW STEP - Repair,Clear,evacuate system,Flush with nitrogen,Leak test,Pressure test,Pump system down,Reclaim refrigerant,Readjust,Rectify
+EDIT -
+Size of copper elbow i.e. 1/4”,1/2” 3/8”
+Make and model No. of condensing and evaporator unit
+---
+COPPER TEE
+NEW ISSUE TYPE -
+Damaged NEW STEP - Replace,evacuate system,Flush with nitrogen,Leak test,Pressure test,Pump system down,Reclaim refrigerant,Readjust,Rectify
+Faulty NEW STEP - Replace,evacuate system,Flush with nitrogen,Leak test,Pressure test,Pump system down,Reclaim refrigerant,Readjust,Rectify
+Gas leak NEW STEP - Repair,Readjust,Rectify,evacuate system,Flush with nitrogen,Leak test,Pressure test,Pump system down,Reclaim refrigerant
+Blocked with dirt and debris NEW STEP - Repair,Clear,evacuate system,Flush with nitrogen,Leak test,Pressure test,Pump system down,Reclaim refrigerant,Readjust,Rectify
+EDIT -
+Size of copper tee i.e. 1/4”,1/2” 3/8”
+Make and model No. of condensing and evaporator unit
+---
+COPPER REDUCER
+NEW ISSUE TYPE -
+Damaged NEW STEP - Replace,evacuate system,Flush with nitrogen,Leak test,Pressure test,Pump system down,Reclaim refrigerant,Readjust,Rectify
+Faulty NEW STEP - Replace,evacuate system,Flush with nitrogen,Leak test,Pressure test,Pump system down,Reclaim refrigerant,Readjust,Rectify
+Gas leak NEW STEP - Repair,Readjust,Rectify,evacuate system,Flush with nitrogen,Leak test,Pressure test,Pump system down,Reclaim refrigerant
+Blocked with dirt and debris NEW STEP - Repair,Clear,evacuate system,Flush with nitrogen,Leak test,Pressure test,Pump system down,Reclaim refrigerant,Readjust,Rectify
+EDIT -
+Size of copper reducer i.e. 1/4”,1/2” 3/8”
+Make and model No. of condensing and evaporator unit
+---
+COPPER P - TRAPS
+NEW ISSUE TYPE -
+Damaged NEW STEP - Replace,evacuate system,Flush with nitrogen,Leak test,Pressure test,Pump system down,Reclaim refrigerant,Readjust,Rectify
+Faulty NEW STEP - Replace,evacuate system,Flush with nitrogen,Leak test,Pressure test,Pump system down,Reclaim refrigerant,Readjust,Rectify
+Gas leak NEW STEP - Repair,Readjust,Rectify,evacuate system,Flush with nitrogen,Leak test,Pressure test,Pump system down,Reclaim refrigerant
+Blocked with dirt and debris NEW STEP - Repair,Clear,evacuate system,Flush with nitrogen,Leak test,Pressure test,Pump system down,Reclaim refrigerant,Readjust,Rectify
+EDIT -
+Size of copper p - trap i.e. 1/4”,1/2” 3/8”
+Make and model No. condensing and evaporator unit
+---
+COPPER PIPE INSULATION
+NEW ISSUE TYPE -
+Damaged NEW STEP - Replace,evacuate system,Flush with nitrogen,Leak test,Pressure test,Pump system down,Reclaim refrigerant,Readjust,Rectify
+Faulty NEW STEP - Replace,evacuate system,Flush with nitrogen,Leak test,Pressure test,Pump system down,Reclaim refrigerant,Readjust,Rectify
+Gas leak NEW STEP - Repair,Readjust,Rectify,evacuate system,Flush with nitrogen,Leak test,Pressure test,Pump system down,Reclaim refrigerant
+Blocked with dirt and debris NEW STEP - Repair,Clear,evacuate system,Flush with nitrogen,Leak test,Pressure test,Pump system down,Reclaim refrigerant,Readjust,Rectify
+EDIT -
+Size of pipe insulation i.e. 1/4”,1/2” 3/8”
+What Wall thickness
+Make and model No. of condensing and evaporator unit
+How many meters required
+---
+FLARE NUTS
+NEW ISSUE TYPE -
+Faulty NEW STEP - Repair,Readjust,Rectify,Reset,Clear
+Damaged NEW STEP - Replace,Readjust,Rectify,Reset
+Blocked with dirt and debris NEW STEP - Repair,Clear,Clean,Clean with brush,Wash,Reset,Readjust,Rectify
+Dirty NEW STEP - Repair,Clear,Clean,Readjust,Rectify,Reset
+Edit -
+Make and model of condensing and evaporator unit
+What size pipe i.e. 1/2’”
+What type copper or plastic
+If plastic what size pipe and fittings
+---
+DEKTITES
+NEW ISSUE TYPE -
+Faulty NEW STEP - Replace,evacuate system,Flush with nitrogen,Leak test,Pressure test,Pump system down,Reclaim refrigerant,Readjust,Rectify,Clear,Clean,Clean with brush,Wash,Rewire
+Rusted NEW STEP - Replace,evacuate system,Flush with nitrogen,Leak test,Pressure test,Pump system down,Reclaim refrigerant,Readjust,Rectify,Clear,Clean,Clean with brush,Wash,Rewire
+Damaged NEW STEP - Replace,evacuate system,Flush with nitrogen,Leak test,Pressure test,Pump system down,Reclaim refrigerant,Readjust,Rectify,Clear,Clean,Clean with brush,Wash,Rewire
+Gas leak NEW STEP - Repair,Readjust,Rectify,evacuate system,Flush with nitrogen,Leak test,Pressure test,Pump system down,Reclaim refrigerant
+Edit -
+Make and model of condensing and evaporator unit
+What size dektites
+How many dektites
+Gavinized or zinc roof
+---
+FLEXIABLE ELECTRICAL CONDUIT
+NEW ISSUE TYPE -
+Faulty NEW STEP - Repair,Readjust,Rectify,Reset,Clear
+Damaged NEW STEP - Replace,Readjust,Rectify,Reset
+Blocked with dirt and debris NEW STEP - Repair,Clear,Clean,Clean with brush,Wash,Reset,Readjust,Rectify
+Dirty NEW STEP - Repair,Clear,Clean,Readjust,Rectify,Reset
+Edit -
+Make and model of condensing and evaporator unit
+What size flexiable conduit i.e. 20mm,25mm,32mm
+---
+PLASTIC HARD ELECTRICAL CONDUIT
+NEW ISSUE TYPE -
+Faulty NEW STEP - Repair,Readjust,Rectify,Reset,Clear
+Damaged NEW STEP - Replace,Readjust,Rectify,Reset
+Blocked with dirt and debris NEW STEP - Repair,Clear,Clean,Clean with brush,Wash,Reset,Readjust,Rectify
+Dirty NEW STEP - Repair,Clear,Clean,Readjust,Rectify,Reset
+Edit -
+Make and model of condensing and evaporator unit
+What size conduit i.e. 20mm,25mm,32mm
+---
+THREADED ROD
+NEW ISSUE TYPE -
+Faulty NEW STEP - Replace,evacuate system,Flush with nitrogen,Leak test,Pressure test,Pump system down,Reclaim refrigerant,Readjust,Rectify,Clear,Clean,Clean with brush,Wash,Rewire
+Rusted NEW STEP - Replace,evacuate system,Flush with nitrogen,Leak test,Pressure test,Pump system down,Reclaim refrigerant,Readjust,Rectify,Clear,Clean,Clean with brush,Wash,Rewire
+Damaged NEW STEP - Replace,evacuate system,Flush with nitrogen,Leak test,Pressure test,Pump system down,Reclaim refrigerant,Readjust,Rectify,Clear,Clean,Clean with brush,Wash,Rewire
+Edit -
+Make and model of condensing and evaporator unit
+What size threaded rod i.e. 3/8” 1/2’
+Thickness panelling
+---
+EVAPORATOR MOUNTING KIT BOLTS
+NEW ISSUE TYPE -
+Faulty NEW STEP - Replace,evacuate system,Flush with nitrogen,Leak test,Pressure test,Pump system down,Reclaim refrigerant,Readjust,Rectify,Clear,Clean,Clean with brush,Wash,Rewire
+Rusted NEW STEP - Replace,evacuate system,Flush with nitrogen,Leak test,Pressure test,Pump system down,Reclaim refrigerant,Readjust,Rectify,Clear,Clean,Clean with brush,Wash,Rewire
+Damaged NEW STEP - Replace,evacuate system,Flush with nitrogen,Leak test,Pressure test,Pump system down,Reclaim refrigerant,Readjust,Rectify,Clear,Clean,Clean with brush,Wash,Rewire
+Edit -
+Make and model of evaporator unit
+Thickness panelling
+What length evaporator mounting bolts i.e. 100mm,200mm
+---
+UNISTRUCT 20MM OR 40MM
+NEW ISSUE TYPE -
+Faulty NEW STEP - Replace,evacuate system,Flush with nitrogen,Leak test,Pressure test,Pump system down,Reclaim refrigerant,Readjust,Rectify,Clear,Clean,Clean with brush,Wash,Rewire
+Rusted NEW STEP - Replace,evacuate system,Flush with nitrogen,Leak test,Pressure test,Pump system down,Reclaim refrigerant,Readjust,Rectify,Clear,Clean,Clean with brush,Wash,Rewire
+Damaged NEW STEP - Replace,evacuate system,Flush with nitrogen,Leak test,Pressure test,Pump system down,Reclaim refrigerant,Readjust,Rectify,Clear,Clean,Clean with brush,Wash,Rewire
+Edit -
+Make and model of condensing unit
+What size unistruct 20mm or 40mm
+Make of unistruct
+---
+CONDENSING UNIT MOUTING BLOCKS
+NEW ISSUE TYPE -
+Faulty NEW STEP - Replace,evacuate system,Flush with nitrogen,Leak test,Pressure test,Pump system down,Reclaim refrigerant,Readjust,Rectify,Clear,Clean,Clean with brush,Wash,Rewire
+Damaged NEW STEP - Replace,evacuate system,Flush with nitrogen,Leak test,Pressure test,Pump system down,Reclaim refrigerant,Readjust,Rectify,Clear,Clean,Clean with brush,Wash,Rewire
+Rusted NEW STEP - Replace,evacuate system,Flush with nitrogen,Leak test,Pressure test,Pump system down,Reclaim refrigerant,Readjust,Rectify,Clear,Clean,Clean with brush,Wash,Rewire
+Edit -
+Make and model of condensing unit
+What size mounting blocks L x W
+Model No. of mounting block
+---
+CONDENSING UNIT WEATHER COVERS
+NEW ISSUE TYPE -
+Faulty NEW STEP - Repair,Readjust,Rectify,Reset,Clear
+Damaged NEW STEP - Replace,Readjust,Rectify,Reset
+Blocked with dirt and debris NEW STEP - Repair,Clear,Clean,Clean with brush,Wash,Reset,Readjust,Rectify
+Dirty NEW STEP - Repair,Clear,Clean,Readjust,Rectify,Reset
+Edit -
+Make and model of condensing unit
+What size mounting blocks L x W
+What size unit weather cover i.e. L x W x H
+Plastic or metal
+Powder coated and colour
+---
+CONDENSING UNIT ROOF BRACKETS
+NEW ISSUE TYPE -
+Faulty NEW STEP - Replace,evacuate system,Flush with nitrogen,Leak test,Pressure test,Pump system down,Reclaim refrigerant,Readjust,Rectify,Clear,Clean,Clean with brush,Wash,Rewire
+Rusted NEW STEP - Replace,evacuate system,Flush with nitrogen,Leak test,Pressure test,Pump system down,Reclaim refrigerant,Readjust,Rectify,Clear,Clean,Clean with brush,Wash,Rewire
+Damaged NEW STEP - Replace,evacuate system,Flush with nitrogen,Leak test,Pressure test,Pump system down,Reclaim refrigerant,Readjust,Rectify,Clear,Clean,Clean with brush,Wash,Rewire
+Edit -
+Make and model of condensing unit
+What size roof brackets L x W
+Model No. of roof brackets
+Gavinized or powder coated
+Pitch of roof
+---
+CONDENSING UNIT WALL BRACKETS
+NEW ISSUE TYPE -
+Faulty NEW STEP - Replace,evacuate system,Flush with nitrogen,Leak test,Pressure test,Pump system down,Reclaim refrigerant,Readjust,Rectify,Clear,Clean,Clean with brush,Wash,Rewire
+Rusted NEW STEP - Replace,evacuate system,Flush with nitrogen,Leak test,Pressure test,Pump system down,Reclaim refrigerant,Readjust,Rectify,Clear,Clean,Clean with brush,Wash,Rewire
+Damaged NEW STEP - Replace,evacuate system,Flush with nitrogen,Leak test,Pressure test,Pump system down,Reclaim refrigerant,Readjust,Rectify,Clear,Clean,Clean with brush,Wash,Rewire
+Edit -
+Make and model of condensing unit
+What size wall brackets L x W
+Model No. of wall brackets
+Gavinized or powder coated
+---
+TOPHATS
+NEW ISSUE TYPE -
+Damaged NEW STEP - Replace,Readjust,Rectify
+Rusted NEW STEP - Repair,Readjust,Rectify,Clear,Clean,Clean with brush
+Edit -
+Make and model of condensing unit
+what size L x w x H
+zinc or galvanized metal
+Pitch of roof
+---
+PVC DRAINAGE PIPE
+NEW ISSUE TYPE -
+Faulty NEW STEP - Repair,Readjust,Rectify,Reset,Clear
+Damaged NEW STEP - Replace,Readjust,Rectify,Reset
+Blocked with dirt and debris NEW STEP - Repair,Clear,Clean,Clean with brush,Wash,Reset,Readjust,Rectify
+Dirty NEW STEP - Repair,Clear,Clean,Readjust,Rectify,Reset
+Edit -
+Make and model of condensing and evaporator unit
+What size drainage water pipe i.e. 20mm or 25mm
+What type copper or plastic
+---
+PVC 90 DEGREE ELBOW
+NEW ISSUE TYPE -
+Faulty NEW STEP - Repair,Readjust,Rectify,Reset,Clear
+Damaged NEW STEP - Replace,Readjust,Rectify,Reset
+Blocked with dirt and debris NEW STEP - Repair,Clear,Clean,Clean with brush,Wash,Reset,Readjust,Rectify
+Dirty NEW STEP - Repair,Clear,Clean,Readjust,Rectify,Reset
+Edit -
+Make and model of condensing and evaporator unit
+What size of 90 degree pvc elbow i.e. 20mm or 25mm
+What type copper or plastic
+---
+PVC 45 DEGREE ELBOW
+NEW ISSUE TYPE -
+Faulty NEW STEP - Repair,Readjust,Rectify,Reset,Clear
+Damaged NEW STEP - Replace,Readjust,Rectify,Reset
+Blocked with dirt and debris NEW STEP - Repair,Clear,Clean,Clean with brush,Wash,Reset,Readjust,Rectify
+Dirty NEW STEP - Repair,Clear,Clean,Readjust,Rectify,Reset
+Edit -
+Make and model of condensing and evaporator unit
+What size of 45 degree pvc elbow i.e. 20mm or 25mm
+What type copper or plastic
+---
+PVC UNIONS
+NEW ISSUE TYPE -
+Faulty NEW STEP - Repair,Readjust,Rectify,Reset,Clear
+Damaged NEW STEP - Replace,Readjust,Rectify,Reset
+Blocked with dirt and debris NEW STEP - Repair,Clear,Clean,Clean with brush,Wash,Reset,Readjust,Rectify
+Dirty NEW STEP - Repair,Clear,Clean,Readjust,Rectify,Reset
+Edit -
+Make and model of condensing and evaporator unit
+What size union in mm i.e. 20mm 25mm
+What type copper or plastic
+---
+PVC TEE
+NEW ISSUE TYPE -
+Faulty NEW STEP - Repair,Readjust,Rectify,Reset,Clear
+Damaged NEW STEP - Replace,Readjust,Rectify,Reset
+Blocked with dirt and debris NEW STEP - Repair,Clear,Clean,Clean with brush,Wash,Reset,Readjust,Rectify
+Dirty NEW STEP - Repair,Clear,Clean,Readjust,Rectify,Reset
+Edit -
+Make and model of condensing and evaporator unit
+What size tee in mm i.e. 20mm 25mm
+What type copper or plastic
+---
+V - TRAP
+NEW ISSUE TYPE -
+Faulty NEW STEP - Repair,Readjust,Rectify,Reset,Clear
+Damaged NEW STEP - Replace,Readjust,Rectify,Reset
+Blocked with dirt and debris NEW STEP - Repair,Clear,Clean,Clean with brush,Wash,Reset,Readjust,Rectify
+Dirty NEW STEP - Repair,Clear,Clean,Readjust,Rectify,Reset
+Edit -
+Make and model of condensing and evaporator unit
+What size v - trap in mm i.e. 20mm 25mm
+What type copper or plastic
+---
+P - TRAP
+NEW ISSUE TYPE -
+Faulty NEW STEP - Repair,Readjust,Rectify,Reset,Clear
+Damaged NEW STEP - Replace,Readjust,Rectify,Reset
+Blocked with dirt and debris NEW STEP - Repair,Clear,Clean,Clean with brush,Wash,Reset,Readjust,Rectify
+Dirty NEW STEP - Repair,Clear,Clean,Readjust,Rectify,Reset
+Edit -
+Make and model of condensing and evaporator unit
+What size p - trap in mm i.e. 20mm 25mm
+What type copper or plastic
+---
+PLASTIC HOSE
+NEW ISSUE TYPE -
+Faulty NEW STEP - Repair,Readjust,Rectify,Reset,Clear
+Damaged NEW STEP - Replace,Readjust,Rectify,Reset
+Blocked with dirt and debris NEW STEP - Repair,Clear,Clean,Clean with brush,Wash,Reset,Readjust,Rectify
+Dirty NEW STEP - Repair,Clear,Clean,Readjust,Rectify,Reset
+Edit -
+Make and model of condensing and evaporator unit
+What size plastic hose in mm i.e. 20mm 25mm
+What type copper or plastic
+---
+PVC DUCT COVER EXTERNAL CORNER 110MM
+NEW ISSUE TYPE -
+Faulty NEW STEP - Repair,Readjust,Rectify,Reset,Clear
+Damaged NEW STEP - Replace,Readjust,Rectify,Reset
+Blocked with dirt and debris NEW STEP - Repair,Clear,Clean,Clean with brush,Wash,Reset,Readjust,Rectify
+Dirty NEW STEP - Repair,Clear,Clean,Readjust,Rectify,Reset
+Edit -
+Make and model of condensing and evaporator unit
+What size external duct cover
+How many required
+---
+PVC DUCT COVER EXTERNAL CORNER 80MM
+NEW ISSUE TYPE -
+Faulty NEW STEP - Repair,Readjust,Rectify,Reset,Clear
+Damaged NEW STEP - Replace,Readjust,Rectify,Reset
+Blocked with dirt and debris NEW STEP - Repair,Clear,Clean,Clean with brush,Wash,Reset,Readjust,Rectify
+Dirty NEW STEP - Repair,Clear,Clean,Readjust,Rectify,Reset
+Edit -
+Make and model of condensing and evaporator unit
+What size external duct cover
+How many required
+---
+PVC DUCT COVER INTERNAL CORNER 110MM
+NEW ISSUE TYPE -
+Faulty NEW STEP - Repair,Readjust,Rectify,Reset,Clear
+Damaged NEW STEP - Replace,Readjust,Rectify,Reset
+Blocked with dirt and debris NEW STEP - Repair,Clear,Clean,Clean with brush,Wash,Reset,Readjust,Rectify
+Dirty NEW STEP - Repair,Clear,Clean,Readjust,Rectify,Reset
+Edit -
+Make and model of condensing and evaporator unit
+What size internal duct cover
+How many required
+---
+PVC DUCT COVER INTERNAL CORNER 80MM
+NEW ISSUE TYPE -
+Faulty NEW STEP - Repair,Readjust,Rectify,Reset,Clear
+Damaged NEW STEP - Replace,Readjust,Rectify,Reset
+Blocked with dirt and debris NEW STEP - Repair,Clear,Clean,Clean with brush,Wash,Reset,Readjust,Rectify
+Dirty NEW STEP - Repair,Clear,Clean,Readjust,Rectify,Reset
+Edit -
+Make and model of condensing and evaporator unit
+What size internal duct cover
+How many required
+---
+DUCT COVER JOINT 110MM
+NEW ISSUE TYPE -
+Faulty NEW STEP - Repair,Readjust,Rectify,Reset,Clear
+Damaged NEW STEP - Replace,Readjust,Rectify,Reset
+Blocked with dirt and debris NEW STEP - Repair,Clear,Clean,Clean with brush,Wash,Reset,Readjust,Rectify
+Dirty NEW STEP - Repair,Clear,Clean,Readjust,Rectify,Reset
+Edit -
+Make and model of condensing and evaporator unit
+What size duct cover joiner
+How many required
+---
+DUCT COVER JOINT 80MM
+NEW ISSUE TYPE -
+Faulty NEW STEP - Repair,Readjust,Rectify,Reset,Clear
+Damaged NEW STEP - Replace,Readjust,Rectify,Reset
+Blocked with dirt and debris NEW STEP - Repair,Clear,Clean,Clean with brush,Wash,Reset,Readjust,Rectify
+Dirty NEW STEP - Repair,Clear,Clean,Readjust,Rectify,Reset
+Edit -
+Make and model of condensing and evaporator unit
+What size duct cover joiner
+How many required
+---
+PVC DUCT COVER PLAIN CURVE 110MM
+NEW ISSUE TYPE -
+Faulty NEW STEP - Repair,Readjust,Rectify,Reset,Clear
+Damaged NEW STEP - Replace,Readjust,Rectify,Reset
+Blocked with dirt and debris NEW STEP - Repair,Clear,Clean,Clean with brush,Wash,Reset,Readjust,Rectify
+Dirty NEW STEP - Repair,Clear,Clean,Readjust,Rectify,Reset
+Edit -
+Make and model of condensing and evaporator unit
+What size duct plain curve cover
+How many required
+---
+PVC DUCT COVER PLAIN CURVE 80MM
+NEW ISSUE TYPE -
+Faulty NEW STEP - Repair,Readjust,Rectify,Reset,Clear
+Damaged NEW STEP - Replace,Readjust,Rectify,Reset
+Blocked with dirt and debris NEW STEP - Repair,Clear,Clean,Clean with brush,Wash,Reset,Readjust,Rectify
+Dirty NEW STEP - Repair,Clear,Clean,Readjust,Rectify,Reset
+Edit -
+Make and model of condensing and evaporator unit
+What size duct plain curve cover
+How many required
+---
+PVC DUCT COVER 110MM
+NEW ISSUE TYPE -
+Faulty NEW STEP - Repair,Readjust,Rectify,Reset,Clear
+Damaged NEW STEP - Replace,Readjust,Rectify,Reset
+Blocked with dirt and debris NEW STEP - Repair,Clear,Clean,Clean with brush,Wash,Reset,Readjust,Rectify
+Dirty NEW STEP - Repair,Clear,Clean,Readjust,Rectify,Reset
+Edit -
+Make and model of condensing and evaporator unit
+What size duct cover
+How many required
+---
+PVC DUCT COVER 80MM
+NEW ISSUE TYPE -
+Faulty NEW STEP - Repair,Readjust,Rectify,Reset,Clear
+Damaged NEW STEP - Replace,Readjust,Rectify,Reset
+Blocked with dirt and debris NEW STEP - Repair,Clear,Clean,Clean with brush,Wash,Reset,Readjust,Rectify
+Dirty NEW STEP - Repair,Clear,Clean,Readjust,Rectify,Reset
+Edit -
+Make and model of condensing and evaporator unit
+What size duct cover
+How many required
+---
+PVC DUCT COVER 45 DEGREE ELBOW 110MM
+NEW ISSUE TYPE -
+Faulty NEW STEP - Repair,Readjust,Rectify,Reset,Clear
+Damaged NEW STEP - Replace,Readjust,Rectify,Reset
+Blocked with dirt and debris NEW STEP - Repair,Clear,Clean,Clean with brush,Wash,Reset,Readjust,Rectify
+Dirty NEW STEP - Repair,Clear,Clean,Readjust,Rectify,Reset
+Edit -
+Make and model of condensing and evaporator unit
+What size 45 degree elbow
+How many required
+---
+PVC DUCT COVER 45 DEGREE ELBOW 80MM
+NEW ISSUE TYPE -
+Faulty NEW STEP - Repair,Readjust,Rectify,Reset,Clear
+Damaged NEW STEP - Replace,Readjust,Rectify,Reset
+Blocked with dirt and debris NEW STEP - Repair,Clear,Clean,Clean with brush,Wash,Reset,Readjust,Rectify
+Dirty NEW STEP - Repair,Clear,Clean,Readjust,Rectify,Reset
+Edit -
+Make and model of condensing and evaporator unit
+What size 45 degree elbow duct cover
+How many required

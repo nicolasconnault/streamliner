@@ -1,0 +1,125 @@
+#service_request_units table,
+#service_request_messages table{
+    margin-top: 0px;
+    background-color: #fff;
+}
+#service_request_messages table .actions ,
+#service_request_units table .actions {
+    max-width: 120px;
+}
+
+#service_request_messages table button ,
+#service_request_units table button {
+    margin-right: 10px;
+}
+#past_units_dropdown {
+    display: inline-block;
+    position: relative;
+}
+#past_units_dropdown .form-control {
+    display: inline;
+}
+
+.sigPad {
+  margin: 0;
+  padding: 0;
+  width: 300px; /* Change the width */
+}
+
+.sigWrapper {
+  clear: both;
+  height: 110px !important; /* Change the height */
+  width: 305px !important;
+  border: 1px solid #ccc;
+}
+
+.sigNav {
+    margin-top: 20px !important;
+    width: 310px !important;
+}
+
+#tech_map-canvas {
+    height: 400px;
+    width: 500px;
+    margin: 20px;
+    float: left;
+}
+
+#begin-task {
+    float: left;
+    width: 50%;
+
+}
+
+#tech-task-details {
+    float: left;
+    margin-top: 20px;
+    width: 50%;
+    margin-bottom: 20px;
+}
+#new_sq_form .col-lg-2 {
+    width: 150px;
+}
+#new_sq_form .col-lg-10 {
+    width: 250px;
+}
+
+.tree li span.element_name {
+    border-width: 0;
+    padding: 1px;
+}
+#tasks_list  { list-style-type: none; margin: 0; padding: 0;  }
+#tasks_list li { margin: 0 3px 3px 3px; padding: 0.4em; padding-left: 1.5em; font-size: 1em; height: 28px; cursor: pointer; }
+#tasks_list li span { position: absolute; margin-left: -1.3em; }
+
+.btn-repair, .well.repair {
+    background-color: #53DE89;
+    border-color: #53DE29;
+    color: #000;
+}
+.btn-breakdown, .well.breakdown {
+    background-color: #FEE833;
+    border-color: #FEE833;
+    color: #000;
+}
+.btn-maintenance, .well.maintenance {
+    background-color: orange;
+    border-color: orange;
+    color: #000;
+}
+.btn-installation, .well.installation {
+    background-color: #5bc0de;
+    border-color: #5bc0de;
+    color: #000;
+}
+.btn-service, .well.service {
+    background-color: #d09bee;
+    border-color: #c08bde;
+    color: #000;
+}
+div#tenancy_table {
+    max-width: 1000px;
+}
+table#tenancy-table th.actions {
+    max-width: 200px;
+    width: 200px;
+}
+
+#tab_overlay {
+    height:50px;
+    position:absolute;
+    width:100%;
+    z-index: 999;
+}
+
+#description-of-work {
+    margin-top: 10px;
+    padding: 10px;
+}
+.action-icon {
+    font-size: 48px;
+}
+
+i.action-icon {
+    margin-right: 8px;
+}

@@ -1,0 +1,512 @@
+---
+INTERNAL FAN MOTOR
+NEW ISSUE TYPE -
+Damaged NEW STEP - Replace,Rewire,Readjust,Rectify
+Faulty NEW STEP - Replace,Rewire,Readjust,Rectify
+Blocked with dirt and debris NEW STEP - Repair,Clear,Flush with nitrogen,Rewire,Readjust,Rectify
+Burnt out NEW STEP - Replace,Reset,Rewire,Readjust,Rectify
+EDIT -
+Make and model No. fan motor
+Voltage
+Speed - variable or two or three speed
+What size of capacitors (If required)
+---
+ROOF MOUNTED FAN MOTOR
+NEW ISSUE TYPE -
+Damaged NEW STEP - Replace,Rewire,Readjust,Rectify
+Faulty NEW STEP - Replace,Rewire,Readjust,Rectify
+Blocked with dirt and debris NEW STEP - Repair,Clear,Flush with nitrogen,Rewire,Readjust,Rectify
+Burnt out NEW STEP - Replace,Reset,Rewire,Readjust,Rectify
+EDIT -
+Make and model No. fan motor
+Voltage
+Speed - variable or two or three speed
+What size of capacitors (If required)
+---
+FAN GRILLE
+NEW ISSUE TYPE -
+Faulty NEW STEP - Repair,Readjust,Rectify,Reset,Rewire,Clear
+Damaged NEW STEP - Replace,Readjust,Rectify,Reset,Rewire,Clear
+EDIT -
+Make and model No. fan
+Make and model of fan motor
+---
+FAN COWLS
+NEW ISSUE TYPE -
+Faulty NEW STEP - Repair,Readjust,Rectify,Reset,Rewire,Clear
+Damaged NEW STEP - Replace,Readjust,Rectify,Reset,Rewire,Clear
+EDIT -
+Make and model No. fan
+Make and model of fan motor
+---
+FAN BLADES
+NEW ISSUE TYPE -
+Damaged NEW STEP - Replace,Rewire,Readjust,Rectify
+Faulty NEW STEP - Replace,Rewire,Readjust,Rectify
+Dirty NEW STEP - Repair,Clear,Clean,Clean with brush,Wash
+EDIT -
+Diameter of fan blade
+Make and model of fan motor
+Blade - clockwise or anti-clock wise to deliver air flows
+---
+PULLEY
+NEW ISSUE TYPE -
+Faulty NEW STEP - Repair,Readjust,Rectify,Reset,Clear
+Damaged NEW STEP - Replace,Readjust,Rectify,Reset
+EDIT -
+Make and model of fan and pulley
+Diameter of pulley
+What size shaft of pulley
+What type of lock ring
+---
+BEARINGS
+NEW ISSUE TYPE -
+Faulty NEW STEP - Repair,Readjust,Rectify,Reset,Clear
+Damaged NEW STEP - Replace,Readjust,Rectify,Reset
+Imploded NEW STEP - Replace,Readjust,Rectify,Reset
+Rusted NEW STEP - Replace,Readjust,Rectify,Reset
+EDIT -
+Make and model of fan
+Diameter of bearing
+What size shaft of bearing
+Internal
+---
+FAN CYCLE SWITCH
+NEW ISSUE TYPE -
+Faulty NEW STEP - Repair,Readjust,Rectify,Reset,Clear,Rewire
+Damaged NEW STEP - Replace,Readjust,Rectify,Reset,Rewire
+Burnt out NEW STEP - Replace,,Readjust,Rectify,Reset,Rewire
+EDIT -
+Make and model No. of fan
+Make and model No. of pressure switch
+Voltage of pressure switch
+What type of fan cycle switch
+---
+SENSOR
+NEW ISSUE TYPE -
+Damaged NEW STEP - Replace,Rewire,Readjust,Rectify
+Faulty NEW STEP - Replace,Rewire,Readjust,Rectify
+Blocked with dirt and debris NEW STEP - Repair,Clear,Flush with nitrogen,Rewire,Readjust,Rectify
+Burnt out NEW STEP - Replace,Reset,Rewire,Readjust,Rectify
+Out of calibration NEW STEP - Replace,Readjust,Rectify,clear,Rewire,Reset
+EDIT -
+Make and model No. of sensor
+What type of sensor
+Voltage of sensor
+---
+PROGRAMMABLE TIMERS
+NEW ISSUE TYPE -
+Out of calibration NEW STEP - Repair,Readjust,Rectify,Reset
+Burnt out NEW STEP - Replace,Readjust,Rectify,Rewire electrics,Reset,Clear
+Faulty NEW STEP - Repair,Readjust,Rectify,Reset,Rewire electrics,Clear
+Damaged NEW STEP - Replace,Readjust,Rectify,Reset,rewire electrics
+Blocked with dirt and debris NEW STEP - Repair,Clear,Clean,Clean with brush,Wash,Reset,Readjust,Rectify
+EDIT -
+Make and model of programmable timer
+Make and model of fan motor
+what voltage
+---
+TRANSFORMER
+NEW ISSUE TYPE -
+Damaged NEW STEP - Replace,Readjust,Rectify,Reset,Rewire
+Burnt out NEW STEP - Replace,Readjust,Rectify,Rewire electrics,Reset,Clear
+EDIT -
+Make and model of transformer
+Make and model of fan motor
+What voltage and amperage
+What is the voltage transferring i.e. 240v to 24v
+---
+THERMISTOR
+NEW ISSUE TYPE -
+Damaged NEW STEP - Replace,Rewire,Readjust,Rectify
+Faulty NEW STEP - Replace,Rewire,Readjust,Rectify
+Blocked with dirt and debris NEW STEP - Repair,Clear,Flush with nitrogen,Rewire,Readjust,Rectify
+Burnt out NEW STEP - Replace,Reset,Rewire,Readjust,Rectify
+Out of calibration NEW STEP - Replace,Readjust,Rectify,clear,Rewire,Reset
+EDIT -
+Make and model No. of fan and thermistior.
+What type of thermistor
+Voltage of thermistor
+---
+REMOTE THERMOSTAT SENSOR
+NEW ISSUE TYPE -
+Damaged NEW STEP - Replace,Rewire,Readjust,Rectify
+Faulty NEW STEP - Replace,Rewire,Readjust,Rectify
+Blocked with dirt and debris NEW STEP - Repair,Clear,Flush with nitrogen,Rewire,Readjust,Rectify
+Burnt out NEW STEP - Replace,Reset,Rewire,Readjust,Rectify
+Out of calibration NEW STEP - Replace,Readjust,Rectify,clear,Rewire,Reset
+EDIT -
+Make and model No. of thermostat sensor .
+Make and model No. of fan motor
+What type of remote sensor
+Voltage of sensor
+---
+ELECTRONIC WALL CONTROLLER
+NEW ISSUE TYPE -
+Damaged NEW STEP - Replace,Rewire,Readjust,Rectify
+Faulty NEW STEP - Replace,Rewire,Readjust,Rectify
+Blocked with dirt and debris NEW STEP - Repair,Clear,Flush with nitrogen,Rewire,Readjust,Rectify
+Burnt out NEW STEP - Replace,Reset,Rewire,Readjust,Rectify
+Out of calibration NEW STEP - Replace,Readjust,Rectify,clear,Rewire,Reset
+EDIT -
+Make and model No. of electronic wall controller.
+Make and model No. of fan motor
+What type of wall controller
+Voltage of wall controller
+Transformer required
+---
+MECHANICAL WALL CONTROLLER
+NEW ISSUE TYPE -
+Damaged NEW STEP - Replace,Rewire,Readjust,Rectify
+Faulty NEW STEP - Replace,Rewire,Readjust,Rectify
+Blocked with dirt and debris NEW STEP - Repair,Clear,Flush with nitrogen,Rewire,Readjust,Rectify
+Burnt out NEW STEP - Replace,Reset,Rewire,Readjust,Rectify
+Out of calibration NEW STEP - Replace,Readjust,Rectify,clear,Rewire,Reset
+EDIT -
+Make and model No. of mechanical controller.
+Make and model No. of fan motor
+What type of wall controller
+Voltage of wall controller
+Transformer required
+---
+OVERLOADS
+NEW ISSUE TYPE -
+Faulty NEW STEP - Repair,Readjust,Rectify,Reset,Clear,Rewire
+Damaged NEW STEP - Replace,Readjust,Rectify,Reset,Rewire
+Burnt out NEW STEP - Replace,Readjust,Rectify,Rewire electrics,Reset,Clear
+Out of calibration NEW STEP - Repair,Readjust,Rectify,Reset
+EDIT -
+Make and model of fan motor
+Make and model of overload
+What amperages on the overload
+Any extra cables required
+---
+CONTACTOR
+NEW ISSUE TYPE -
+Faulty NEW STEP - Repair,Readjust,Rectify,Reset,Clear,Rewire
+Damaged NEW STEP - Replace,Readjust,Rectify,Reset,Rewire
+Burnt out NEW STEP - Replace,Readjust,Rectify,Rewire electrics,Reset,Clear
+Out of calibration NEW STEP - Repair,Readjust,Rectify,Reset
+Jammed NEW STEP - Repair,Clear,Clean,Clean with brush,Wash,Reset,Readjust,Rectify
+Dirty NEW STEP - Repair,Clear,Clean,Readjust,Rectify,Reset
+EDIT -
+Make and model of fan motor
+Make and model of contactor
+What size contactor (kilowatts rating) KW
+Any additional axillary contacts required i.e. n/o OR n/c
+What voltage contactor coil. i.e. 240v or 440v
+Any extra cables required
+---
+CONTACTOR COIL
+NEW ISSUE TYPE -
+Burnt out NEW STEP - Replace,Readjust,Rectify,Rewire electrics
+Jammed NEW STEP - Repair,Clear,Clean,Clean with brush,Wash,Reset,Readjust,Rectify,Rewire
+Dirty NEW STEP - Repair,Clear,Clean,Readjust,Rectify,Reset,Rewire
+Faulty NEW STEP - Repair,Readjust,Rectify,Reset,Rewire electrics,Clear
+EDIT -
+Make and model of fan motor
+What is the coil voltage
+Make and model No. of contactor
+---
+CAPACITIOR
+NEW ISSUE TYPE -
+Faulty NEW STEP - Repair,Readjust,Rectify,Reset,Clear,Rewire
+Damaged NEW STEP - Replace,Readjust,Rectify,Reset,Rewire
+Burnt out NEW STEP - Replace,Readjust,Rectify,Rewire electrics,Reset,Clear
+Rusted NEW STEP - Replace,Readjust,Rectify,Clear,Clean,Clean with brush
+EDIT -
+Make and model of fan motor
+Any extra cables required
+What size is capacitor mfd or uf
+What is the voltage of capacitor
+---
+PRINTED CIRCUIT BOARDS (PCB)
+NEW ISSUE TYPE -
+Burnt out NEW STEP - Replace,Readjust,Rectify,Rewire electrics,Reset,Clear
+Faulty NEW STEP - Repair,Readjust,Rectify,Reset,Clear,Rewire
+EDIT -
+Make and model of printed circuit boards
+Make and model No. of fan motor
+What type of ends on the PCB i.e. plastic or hard wired in
+Any extra cables required
+How many PCB are,Required
+---
+VARIABLE SPEED DRIVER (VSD)
+NEW ISSUE TYPE -
+Burnt out NEW STEP - Replace,Readjust,Rectify,Rewire electrics,Reset,Clear
+Faulty NEW STEP - Repair,Readjust,Rectify,Reset,Clear,Rewire
+Damaged NEW STEP - Replace,Readjust,Rectify,Reset,Rewire
+EDIT -
+Make and model of VSD
+How many speeds i.e. single or variable
+Any extra cables required
+What is the voltage of VSD
+---
+Co2 SENSOR
+NEW ISSUE TYPE -
+Burnt out NEW STEP - Replace,Readjust,Rectify,Rewire electrics,Reset,Clear
+Faulty NEW STEP - Repair,Readjust,Rectify,Reset,Clear,Rewire
+Damaged NEW STEP - Replace,Readjust,Rectify,Reset,Rewire
+EDIT -
+Make and model of Co2 sensor
+Any extra cables required
+What is the voltage of Co2 sensor
+---
+MAIN ISLOATING SWITCH
+NEW ISSUE TYPE -
+Faulty NEW STEP - Repair,Readjust,Rectify,Reset,Clear,Rewire
+Damaged NEW STEP - Replace,Readjust,Rectify,Reset,Rewire
+Burnt out NEW STEP - Replace,Readjust,Rectify,Rewire electrics,Reset,Clear
+Rusted NEW STEP - Replace,Readjust,Rectify,Clear,Clean,Clean with brush,Rewire
+EDIT -
+Make and model of fan motor
+Single or three phase isolating switch
+Any additional cables or conduits required
+Required amperages of isolating switch
+---
+MAIN CIRCUIT BREAKER
+NEW ISSUE TYPE -
+Faulty NEW STEP - Repair,Readjust,Rectify,Reset,Clear,Rewire
+Damaged NEW STEP - Replace,Readjust,Rectify,Reset,Rewire
+Burnt out NEW STEP - Replace,Readjust,Rectify,Rewire electrics,Reset,Clear
+Rusted NEW STEP - Replace,Readjust,Rectify,Clear,Clean,Clean with brush,Rewire
+EDIT -
+Make and model of fan motor unit
+Make and model No. of circuit breaker
+Single or three phase circuit breaker
+Required amperages of circuit breaker
+Any additional cables or conduits required
+---
+FUSES
+NEW ISSUE TYPE -
+Faulty NEW STEP - Repair,Readjust,Rectify,Reset,Clear,Rewire
+Damaged NEW STEP - Replace,Readjust,Rectify,Reset,Rewire
+Burnt out NEW STEP - Replace,Readjust,Rectify,Rewire electrics,Reset,Clear
+Rusted NEW STEP - Replace,Readjust,Rectify,Clear,Clean,Clean with brush,Rewire
+EDIT -
+Make and model of fan motor unit
+Length of fuse
+Voltage of fuses
+Amperage of fuses
+Type of fuse
+---
+MAINS CABLE
+NEW ISSUE TYPE -
+Faulty NEW STEP - Repair,Readjust,Rectify,Reset,Clear,Rewire
+Damaged NEW STEP - Replace,Readjust,Rectify,Reset,Rewire
+Burnt out NEW STEP - Replace,Readjust,Rectify,Rewire electrics,Reset,Clear
+EDIT -
+Make and model of fan unit
+How many meters required
+Type of cables and how many
+Size of cable i.e. 2.5mm or 4mm
+Single or three phase required
+---
+CONTROL CABLING
+NEW ISSUE TYPE -
+Faulty NEW STEP - Repair,Readjust,Rectify,Reset,Clear,Rewire
+Damaged NEW STEP - Replace,Readjust,Rectify,Reset,Rewire
+Burnt out NEW STEP - Replace,Readjust,Rectify,Rewire electrics,Reset,Clear
+EDIT -
+Make and model of fan unit
+How many meters required
+Type of cables and how many
+Type of connecting ends i.e. plastic ends connecting onto pins of PCB’S or hard wired
+---
+CONTROL CIRCUIT BREAKER
+NEW ISSUE TYPE -
+Faulty NEW STEP - Repair,Readjust,Rectify,Reset,Clear,Rewire
+Damaged NEW STEP - Replace,Readjust,Rectify,Reset,Rewire
+Burnt out NEW STEP - Replace,Readjust,Rectify,Rewire electrics,Reset,Clear
+Rusted NEW STEP - Replace,Readjust,Rectify,Clear,Clean,Clean with brush,Rewire
+EDIT -
+Make and model of fan unit
+Make and model No. of circuit breaker
+Single or three phase circuit breaker
+Required amperages of circuit breaker
+Any additional cables or conduits required
+---
+V-BELTS
+NEW ISSUE TYPE -
+Faulty NEW STEP - Repair,Readjust,Rectify,Reset,Clear
+Damaged NEW STEP - Replace,Readjust,Rectify,Reset
+EDIT -
+Make and model of fan unit
+What size v - belt
+Model No. of v- belt
+---
+VIBRATION MOUNTS
+NEW ISSUE TYPE -
+Faulty NEW STEP - Repair,Readjust,Rectify,Reset,Clear
+Damaged NEW STEP - Replace,Readjust,Rectify,Reset
+EDIT -
+Make and model of fan unit
+What size vibration mounts
+Model No. of vibration mounts
+---
+VIBRATION WAFFLE PAD
+NEW ISSUE TYPE -
+Faulty NEW STEP - Repair,Readjust,Rectify,Reset,Clear
+Damaged NEW STEP - Replace,Readjust,Rectify,Reset
+EDIT -
+Make and model of fan unit
+What size waffle pads
+---
+TOPHATS
+NEW ISSUE TYPE -
+Damaged NEW STEP - Replace,Readjust,Rectify
+Rusted NEW STEP - Repair,Readjust,Rectify,Clear,Clean,Clean with brush
+EDIT -
+what size L x w x H
+zinc or galvanized metal
+Pitch of roof
+---
+SHEET METAL DUCTING
+NEW ISSUE TYPE -
+Damaged NEW STEP - Replace,Readjust,Rectify
+Faulty NEW STEP - Repair,Readjust,Rectify
+Imploded NEW STEP - Replace,Readjust,Rectify
+Rusted NEW STEP - Repair,Readjust,Rectify,Clear,Clean,Clean with brush
+EDIT -
+What size duct i.e. L x W x H
+What size insulation
+---
+SUPPLY AIR FLEXIABLE DUCT
+NEW ISSUE TYPE -
+Damaged NEW STEP - Replace,Readjust,Rectify
+Faulty NEW STEP - Repair,Readjust,Rectify
+Imploded NEW STEP - Replace,Readjust,Rectify
+EDIT -
+What size duct i.e. 200,250mm
+What size insulation
+---
+STANDARD EGG - CRATE GILLE SUPPLY AIR DIFFUSSION
+NEW ISSUE TYPE -
+Damaged NEW STEP - Replace,Readjust,Rectify
+Faulty NEW STEP - Repair,Readjust,Rectify
+Dirty NEW STEP - Repair,Clear,Clean with brush,Wash
+EDIT -
+what size face L x W
+Neck size L x W
+Metal or plastic
+---
+STANDARD CUSHION HEAD BOX
+NEW ISSUE TYPE -
+Damaged NEW STEP - Replace,Readjust,Rectify
+Faulty NEW STEP - Repair,Readjust,Rectify
+EDIT -
+Neck size L x W
+Metal or plastic
+Spigot size i.e. 250,300mm
+---
+MANUAL DAMPER
+NEW ISSUE TYPE -
+Damaged NEW STEP - Replace,Readjust,Rectify
+Faulty NEW STEP - Repair,Readjust,Rectify
+Imploded NEW STEP - Replace,Readjust,Rectify
+EDIT -
+What size spigots on each end i.e. 200,250mm,300mm
+Insulated or non-insulated
+Metal or plastic
+---
+ACOUSTIC LOUVER GRILLE
+NEW ISSUE TYPE -
+Damaged NEW STEP - Replace,Readjust,Rectify
+Faulty NEW STEP - Repair,Readjust,Rectify
+Dirty NEW STEP - Repair,Clear,Clean with brush,Wash
+Rusted NEW STEP - Repair,Readjust,Rectify,Clear,Clean,Clean with brush
+EDIT -
+what size face L x W
+Neck size L x W
+Metal or plastic
+---
+EXTERNAL LOUVER GRILLE
+NEW ISSUE TYPE -
+Damaged NEW STEP - Replace,Readjust,Rectify
+Faulty NEW STEP - Repair,Readjust,Rectify
+Dirty NEW STEP - Repair,Clear,Clean with brush,Wash
+Rusted NEW STEP - Repair,Readjust,Rectify,Clear,Clean,Clean with brush
+EDIT -
+what size face L x W
+Neck size L x W
+Metal or plastic
+---
+GUIDED VANES
+NEW ISSUE TYPE -
+Damaged NEW STEP - Replace,Readjust,Rectify
+Faulty NEW STEP - Repair,Readjust,Rectify
+Dirty NEW STEP - Repair,Clear,Clean with brush,Wash
+Rusted NEW STEP - Repair,Readjust,Rectify,Clear,Clean,Clean with brush
+EDIT -
+what size ducting L x W
+Neck size L x W
+zinc or galvanized metal
+Pitch of roof
+Metal or plastic
+---
+GUIDED VANE CONTROLS
+NEW ISSUE TYPE -
+Damaged NEW STEP - Replace,Readjust,Rectify
+Faulty NEW STEP - Repair,Readjust,Rectify
+Burnt out NEW STEP - Replace,Readjust,Rectify,Rewire electrics,Reset,Clear
+EDIT -
+Electric control actuators required
+Voltage
+Metal or plastic
+---
+IMPELLER
+NEW ISSUE TYPE -
+Damaged NEW STEP - Replace,Rewire,Readjust,Rectify
+Faulty NEW STEP - Replace,Rewire,Readjust,Rectify
+Dirty NEW STEP - Repair,Clear,Clean,Clean with brush,Wash
+Rusted NEW STEP - Repair,Readjust,Rectify,Clear,Clean,Clean with brush
+EDIT -
+Diameter of fan blade
+Make and model of fan motor unit
+Blade - clockwise or anti-clock wise to deliver air flows
+Pitch of blades
+Metal or plastic
+---
+ATTENUATORS
+NEW ISSUE TYPE -
+Damaged NEW STEP - Replace,Readjust,Rectify
+Faulty NEW STEP - Repair,Readjust,Rectify
+Dirty NEW STEP - Repair,Clear,Clean with brush,Wash
+Rusted NEW STEP - Repair,Readjust,Rectify,Clear,Clean,Clean with brush
+EDIT -
+what size face L x W
+Neck size L x W
+Metal or plastic
+---
+FIRE DAMPERS
+NEW ISSUE TYPE -
+Damaged NEW STEP - Replace,Readjust,Rectify
+Faulty NEW STEP - Repair,Readjust,Rectify
+Imploded NEW STEP - Replace,Readjust,Rectify
+EDIT -
+What size spigots
+What size damper blade
+What size fusible link rating
+Fire rating of wall
+Insulated or non-insulated
+Metal or plastic
+---
+GREASE FILTERS
+NEW ISSUE TYPE -
+Damaged NEW STEP - Replace,Readjust,Rectify
+Faulty NEW STEP - Repair,Readjust,Rectify
+Dirty NEW STEP - Repair,Clear,Clean with brush,Wash
+EDIT -
+Filter size L x W
+Filter media or disposable
+---
+OPPOSED BLADE DAMPERS (OBDs)
+NEW ISSUE TYPE -
+Damaged NEW STEP - Replace,Readjust,Rectify
+Faulty NEW STEP - Repair,Readjust,Rectify
+Imploded NEW STEP - Replace,Readjust,Rectify
+EDIT -
+what size GRILLE face L x W
+Neck size L x W
+How is it volume controlled
+Metal or plastic

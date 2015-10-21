@@ -1,0 +1,45 @@
+
+#calendar .fc-content h2 {
+    font-size: 16pt;
+}
+
+#schedule_calendar .fc-content h2 {
+    font-size: 16pt;
+}
+#calendar .fc-content {
+    margin: 10px;
+    font-size: 12pt;
+}
+#schedule_calendar .fc-content {
+    margin: 10px;
+    font-size: 12pt;
+}
+.modal-body .form-group .col-lg-10 select, .form-group .col-lg-10 input {
+    margin-left: 0px;
+}
+
+.modal-body .form-group .col-lg-2 {
+    width: 30%;
+}
+.modal-body .form-group .col-lg-10 {
+    width: 70%;
+}
+
+.action-icon {
+    font-size: 48px;
+}
+
+i.action-icon {
+    margin-right: 8px;
+}
+
+.select2-choices {
+    width: 250px;
+}
+.fc-day-grid-event .fc-content {
+    white-space: inherit;
+}
+.booked .ui-state-default {
+    background: red none repeat scroll 0 0;
+    color: #000;
+}

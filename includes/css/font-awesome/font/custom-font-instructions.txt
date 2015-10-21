@@ -1,0 +1,10 @@
+1. Go to http://icomoon.io/app
+2. Load the latest Font-Awesome library
+3. Import the SVGs for your custom fonts
+4. Select all the icons
+5. Download icomoon.zip
+6. Unzip in includes/css/font-awesome/font
+7. Remove redundant files
+8. Move style.css to includes/css/font-awesome.css
+9. Replace icon- with fa- throughout the CSS file
+10. Update paths to svg, woff etc. files in the CSS file
